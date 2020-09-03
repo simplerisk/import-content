@@ -3,22 +3,28 @@
     <name>AICPA SOC2 Trust Services Criteria (TSC)</name>
     <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/AICPA%20SOC2%20Trust%20Services%20Criteria%20(TSC)/AICPA_SOC_2_TSC_2017.csv</file>
     <columns>
-      <column name="Framework">
+      <column>
+        <name>Framework</name>
         <mapping>framework</mapping>
       </column>
-      <column name="Control Number">
+      <column>
+        <name>Control Number</name>
         <mapping>control_number</mapping>
       </column>
-      <column name="Control Short Name">
+      <column>
+        <name>Control Short Name</name>
         <mapping>short_name</mapping>
       </column>
-      <column name="Control Long Name">
+      <column>
+        <name>Control Long Name</name>
         <mapping>long_name</mapping>
       </column>
-      <column name="Control Description">
+      <column>
+        <name>Control Description</name>
         <mapping>description</mapping>
       </column>
-      <column name="Control Family">
+      <column>
+        <name>Control Family</name>
         <mapping>family</mapping>
       </column>
     </columns>
