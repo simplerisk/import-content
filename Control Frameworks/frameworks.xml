@@ -33,31 +33,40 @@
     <name>CIS Critical Security Controls</name>
     <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/CIS%20Critical%20Security%20Controls/CIS_Critical_Security_Controls_7.csv</file>
     <columns>
-      <column name="Framework">
+      <column>
+        <name>Framework</name>
         <mapping>framework</mapping>
       </column>
-      <column name="Control Number">
+      <column>
+        <name>Control Number</name>
         <mapping>control_number</mapping>
       </column>
-      <column name="Control Priority">
+      <column>
+        <name>Control Priority</name>
         <mapping>control_priority</mapping>
       </column>
-      <column name="Control Class">
+      <column>
+        <name>Control Class</name>
         <mapping>control_class</mapping>
       </column>
-      <column name="Control Phase">
+      <column>
+        <name>Control Phase</name>
         <mapping>control_phase</mapping>
       </column>
-      <column name="Control Short Name">
+      <column>
+        <name>Control Short Name</name>
         <mapping>short_name</mapping>
       </column>
-      <column name="Control Long Name">
+      <column>
+        <name>Control Long Name</name>
         <mapping>long_name</mapping>
       </column>
-      <column name="Control Description">
+      <column>
+        <name>Control Description</name>
         <mapping>description</mapping>
       </column>
-      <column name="Control Family">
+      <column>
+        <name>Control Family</name>
         <mapping>family</mapping>
       </column>
     </columns>
@@ -66,25 +75,32 @@
     <name>Information Security Regulation Version 2.0</name>
     <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/Information%20Security%20Regulation/Information_Security_Regulation_v2.csv</file>
     <columns>
-      <column name="Control Framework">
+      <column>
+        <name>Control Framework</name>
         <mapping>framework</mapping>
       </column>
-      <column name="Control Family">
+      <column>
+        <name>Control Family</name>
         <mapping>family</mapping>
       </column>
-      <column name="Control Class">
+      <column>
+        <name>Control Class</name>
         <mapping>control_class</mapping>
       </column>
-      <column name="Control Short Name">
+      <column>
+        <name>Control Short Name</name>
         <mapping>short_name</mapping>
       </column>
-      <column name="Control Long Name">
+      <column>
+        <name>Control Long Name</name>
         <mapping>long_name</mapping>   
       </column>
-      <column name="Control Number">
+      <column>
+        <name>Control Number</name>
         <mapping>control_number</mapping>
       </column>
-      <column name="Requirements">
+      <column>
+        <name>Requirements</name>
         <mapping>description</mapping>
       </column>
     </columns>
@@ -93,34 +109,44 @@
     <name>NIST 800-53</name>
     <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/NIST%20800-53/NIST_800_53.csv</file>
     <columns>
-      <column name="Framework">
+      <column>
+        <name>Framework</name>
         <mapping>framework</mapping>
       </column>
-      <column name="Class">
+      <column>
+        <name>Class</name>
         <mapping>control_class</mapping>
       </column>
-      <column name="Family">
+      <column>
+        <name>Family</name>
         <mapping>family</mapping>
       </column>
-      <column name="Number">
+      <column>
+        <name>Number</name>
         <mapping>control_number</mapping>
       </column>
-      <column name="Withdrawn?">
+      <column>
+        <name>Withdrawn?</name>
         <mapping></mapping>
       </column>
-      <column name="Title">
+      <column>
+        <name>Title</name>
         <mapping>short_name</mapping>
       </column>
-      <column name="Impact">
+      <column>
+        <name>Impact</name>
         <mapping></mapping>
       </column>
-      <column name="Priority">
+      <column>
+        <name>Priority</name>
         <mapping>control_priority</mapping>
       </column>
-      <column name="Description">
+      <column>
+        <name>Description</name>
         <mapping>description</mapping>
       </column>
-      <column name="Supplemental-Guidance">
+      <column>
+        <name>Supplemental-Guidance</name>
         <mapping>supplemental_guidance</mapping>
       </column>
     </columns>
@@ -129,25 +155,32 @@
     <name>NIST Cybersecurity Framework (CSF)</name>
     <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/NIST%20Cybersecurity%20Framework%20(CSF)/NIST_CSF.csv</file>
     <columns>
-      <column name="Control Framework">
+      <column>
+        <name>Control Framework</name>
         <mapping>framework</mapping>
       </column>
-      <column name="Control Short Name">
+      <column>
+        <name>Control Short Name</name>
         <mapping>short_name</mapping>
       </column>
-      <column name="Control Long Name">
+      <column>
+        <name>Control Long Name</name>
         <mapping>long_name</mapping>
       </column>
-      <column name="Control Description">
+      <column>
+        <name>Control Description</name>
         <mapping>description</mapping>
       </column>
-      <column name="Control Number">
+      <column>
+        <name>Control Number</name>
         <mapping>control_number</mapping>
       </column>
-      <column name="Control Phase">
+      <column>
+        <name>Control Phase</name>
         <mapping>control_phase</mapping>
       </column>
-      <column name="Control Family">
+      <column>
+        <name>Control Family</name>
         <mapping>family</mapping>
       </column>
     </columns>
