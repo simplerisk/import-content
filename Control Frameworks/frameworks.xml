@@ -1,6 +1,6 @@
 <frameworks>
   <framework name="aicpa_soc2_tsc">
-    <name>AICPA SOC2 Trust Services Criteria (TSC)</name>
+    <name>AICPA 2017 SOC2 Trust Services Criteria (TSC)</name>
     <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/AICPA%20SOC2%20Trust%20Services%20Criteria%20(TSC)/AICPA_SOC_2_TSC_2017.csv</file>
     <columns>
       <column>
