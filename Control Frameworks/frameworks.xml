@@ -30,7 +30,7 @@
     </columns>
   </framework>
   <framework name="cis_csc">
-    <name>CIS Critical Security Controls</name>
+    <name>CIS Critical Security Controls v7</name>
     <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/CIS%20Critical%20Security%20Controls/CIS_Critical_Security_Controls_7.csv</file>
     <columns>
       <column>
