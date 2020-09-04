@@ -78,7 +78,7 @@
       <column>
         <name>Framework Name</name>
         <mapping>controls_control_framework</mapping>
-      <column>
+      </column>
       <column>
         <name>Control Family</name>
         <mapping>controls_control_family</mapping>
