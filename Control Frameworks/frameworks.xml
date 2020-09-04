@@ -5,27 +5,27 @@
     <columns>
       <column>
         <name>Framework</name>
-        <mapping>framework</mapping>
+        <mapping>controls_control_framework</mapping>
       </column>
       <column>
         <name>Control Number</name>
-        <mapping>control_number</mapping>
+        <mapping>controls_control_number</mapping>
       </column>
       <column>
         <name>Control Short Name</name>
-        <mapping>short_name</mapping>
+        <mapping>controls_short_name</mapping>
       </column>
       <column>
         <name>Control Long Name</name>
-        <mapping>long_name</mapping>
+        <mapping>controls_long_name</mapping>
       </column>
       <column>
         <name>Control Description</name>
-        <mapping>description</mapping>
+        <mapping>controls_description</mapping>
       </column>
       <column>
         <name>Control Family</name>
-        <mapping>family</mapping>
+        <mapping>controls_control_family</mapping>
       </column>
     </columns>
   </framework>
@@ -35,39 +35,39 @@
     <columns>
       <column>
         <name>Framework</name>
-        <mapping>framework</mapping>
+        <mapping>controls_control_framework</mapping>
       </column>
       <column>
         <name>Control Number</name>
-        <mapping>control_number</mapping>
+        <mapping>controls_control_number</mapping>
       </column>
       <column>
         <name>Control Priority</name>
-        <mapping>control_priority</mapping>
+        <mapping>controls_control_priority</mapping>
       </column>
       <column>
         <name>Control Class</name>
-        <mapping>control_class</mapping>
+        <mapping>controls_control_class</mapping>
       </column>
       <column>
         <name>Control Phase</name>
-        <mapping>control_phase</mapping>
+        <mapping>controls_control_phase</mapping>
       </column>
       <column>
         <name>Control Short Name</name>
-        <mapping>short_name</mapping>
+        <mapping>controls_short_name</mapping>
       </column>
       <column>
         <name>Control Long Name</name>
-        <mapping>long_name</mapping>
+        <mapping>controls_long_name</mapping>
       </column>
       <column>
         <name>Control Description</name>
-        <mapping>description</mapping>
+        <mapping>controls_description</mapping>
       </column>
       <column>
         <name>Control Family</name>
-        <mapping>family</mapping>
+        <mapping>controls_control_family</mapping>
       </column>
     </columns>
   </framework>
@@ -77,31 +77,31 @@
     <columns>
       <column>
         <name>Control Framework</name>
-        <mapping>framework</mapping>
+        <mapping>controls_control_framework</mapping>
       </column>
       <column>
         <name>Control Family</name>
-        <mapping>family</mapping>
+        <mapping>controls_control_family</mapping>
       </column>
       <column>
         <name>Control Class</name>
-        <mapping>control_class</mapping>
+        <mapping>controls_control_class</mapping>
       </column>
       <column>
         <name>Control Short Name</name>
-        <mapping>short_name</mapping>
+        <mapping>controls_short_name</mapping>
       </column>
       <column>
         <name>Control Long Name</name>
-        <mapping>long_name</mapping>   
+        <mapping>controls_long_name</mapping>   
       </column>
       <column>
         <name>Control Number</name>
-        <mapping>control_number</mapping>
+        <mapping>controls_control_number</mapping>
       </column>
       <column>
         <name>Requirements</name>
-        <mapping>description</mapping>
+        <mapping>controls_description</mapping>
       </column>
     </columns>
   </framework>
@@ -111,19 +111,19 @@
     <columns>
       <column>
         <name>Framework</name>
-        <mapping>framework</mapping>
+        <mapping>controls_control_framework</mapping>
       </column>
       <column>
         <name>Class</name>
-        <mapping>control_class</mapping>
+        <mapping>controls_control_class</mapping>
       </column>
       <column>
         <name>Family</name>
-        <mapping>family</mapping>
+        <mapping>controls_control_family</mapping>
       </column>
       <column>
         <name>Number</name>
-        <mapping>control_number</mapping>
+        <mapping>controls_control_number</mapping>
       </column>
       <column>
         <name>Withdrawn?</name>
@@ -131,7 +131,7 @@
       </column>
       <column>
         <name>Title</name>
-        <mapping>short_name</mapping>
+        <mapping>controls_short_name</mapping>
       </column>
       <column>
         <name>Impact</name>
@@ -139,15 +139,15 @@
       </column>
       <column>
         <name>Priority</name>
-        <mapping>control_priority</mapping>
+        <mapping>controls_control_priority</mapping>
       </column>
       <column>
         <name>Description</name>
-        <mapping>description</mapping>
+        <mapping>controls_description</mapping>
       </column>
       <column>
         <name>Supplemental-Guidance</name>
-        <mapping>supplemental_guidance</mapping>
+        <mapping>controls_supplemental_guidance</mapping>
       </column>
     </columns>
   </framework>
@@ -157,31 +157,31 @@
     <columns>
       <column>
         <name>Control Framework</name>
-        <mapping>framework</mapping>
+        <mapping>controls_control_framework</mapping>
       </column>
       <column>
         <name>Control Short Name</name>
-        <mapping>short_name</mapping>
+        <mapping>controls_short_name</mapping>
       </column>
       <column>
         <name>Control Long Name</name>
-        <mapping>long_name</mapping>
+        <mapping>controls_long_name</mapping>
       </column>
       <column>
         <name>Control Description</name>
-        <mapping>description</mapping>
+        <mapping>controls_description</mapping>
       </column>
       <column>
         <name>Control Number</name>
-        <mapping>control_number</mapping>
+        <mapping>controls_control_number</mapping>
       </column>
       <column>
         <name>Control Phase</name>
-        <mapping>control_phase</mapping>
+        <mapping>controls_control_phase</mapping>
       </column>
       <column>
         <name>Control Family</name>
-        <mapping>family</mapping>
+        <mapping>controls_control_family</mapping>
       </column>
     </columns>
   </framework>
