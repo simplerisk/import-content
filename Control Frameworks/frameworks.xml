@@ -73,7 +73,7 @@
   </framework>
   <framework name="cmmc_1.02_ML1">
     <name>CMMC v1.02 Maturity Level 1</name>
-    <file>https://github.com/simplerisk/import-content/blob/master/Control%20Frameworks/CMMC%20v1.02/CMMC%20v1.02%20Maturity%20Level%201.csv</file>
+    <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/CMMC%20v1.02/CMMC%20v1.02%20Maturity%20Level%201.csv</file>
     <columns>
       <column>
         <name>Framework Name</name>
