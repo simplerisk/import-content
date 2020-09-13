@@ -5,215 +5,215 @@
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
-        <mapping></mapping>
+        <mapping>template_name</mapping>
       </column>
       <column>
         <name>Question ID</name>
-        <mapping></mapping>
+        <mapping>question_id</mapping>
       </column>
       <column>
         <name>Question</name>
-        <mapping></mapping>
+        <mapping>question</mapping>
       </column>
       <column>
         <name>Has File</name>
-        <mapping></mapping>
+        <mapping>has_file</mapping>
       </column>
       <column>
         <name>Question Ordering</name>
-        <mapping></mapping>
+        <mapping>question_ordering</mapping>
       </column>
       <column>
         <name>Answer</name>
-        <mapping></mapping>
+        <mapping>answer</mapping>
       </column>
       <column>
         <name>Submit Risk</name>
-        <mapping></mapping>
+        <mapping>submit_risk</mapping>
       </column>
       <column>
         <name>Subject</name>
-        <mapping></mapping>
+        <mapping>risk_subject</mapping>
       </column>
       <column>
         <name>Owner</name>
-        <mapping></mapping>
+        <mapping>risks_owner</mapping>
       </column>
       <column>
         <name>Affected Assets</name>
-        <mapping></mapping>
+        <mapping>assets</mapping>
       </column>
       <column>
         <name>Sub Questions</name>
-        <mapping></mapping>
+        <mapping>sub_questions</mapping>
       </column>
       <column>
         <name>Risk Scoring Method</name>
-        <mapping></mapping>
+        <mapping>riskscoring_scoring_method</mapping>
       </column>
       <column>
         <name>Calculated Risk</name>
-        <mapping></mapping>
+        <mapping>riskscoring_calculated_risk</mapping>
       </column>
       <column>
         <name>Classic-Likelihood</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CLASSIC_likelihood</mapping>
       </column>
       <column>
         <name>Classic-Impact</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CLASSIC_impact</mapping>
       </column>
       <column>
         <name>CVSS-Attack Vector</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_AccessVector</mapping>
       </column>
       <column>
         <name>CVSS-Attack Complexity</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_AccessComplexity</mapping>
       </column>
       <column>
         <name>CVSS-Authentication</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_Authentication</mapping>
       </column>
       <column>
         <name>CVSS-Confidentiality Impact</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_ConfImpact</mapping>
       </column>
       <column>
         <name>CVSS-Integrity Impact</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_IntegImpact</mapping>
       </column>
       <column>
         <name>CVSS-Availability Impact</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_AvailImpact</mapping>
       </column>
       <column>
         <name>CVSS-Exploitability</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_Exploitability</mapping>
       </column>
       <column>
         <name>CVSS-Remediation Level</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_RemediationLevel</mapping>
       </column>
       <column>
         <name>CVSS-Report Confidence</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_ReportConfidence</mapping>
       </column>
       <column>
         <name>CVSS-Collateral Damage Potential</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_CollateralDamagePotential</mapping>
       </column>
       <column>
         <name>CVSS-Target Distribution</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_TargetDistribution</mapping>
       </column>
       <column>
         <name>CVSS-Confidentiality Requirement</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_ConfidentialityRequirement</mapping>
       </column>
       <column>
         <name>CVSS-Integrity Requirement</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_IntegrityRequirement</mapping>
       </column>
       <column>
         <name>CVSS-Availability Requirement</name>
-        <mapping></mapping>
+        <mapping>riskscoring_CVSS_AvailabilityRequirement</mapping>
       </column>
       <column>
         <name>DREAD-Damage Potential</name>
-        <mapping></mapping>
+        <mapping>riskscoring_DREAD_DamagePotential</mapping>
       </column>
       <column>  
         <name>DREAD-Reproducibility</name>
-        <mapping></mapping>
+        <mapping>riskscoring_DREAD_Reproducibility</mapping>
       </column>
       <column>  
         <name>DREAD-Exploitability</name>
-        <mapping></mapping>
+        <mapping>riskscoring_DREAD_Exploitability</mapping>
       </column>
       <column>  
         <name>DREAD-Affected Users</name>
-        <mapping></mapping>
+        <mapping>riskscoring_DREAD_AffectedUsers</mapping>
       </column>
       <column>  
         <name>DREAD-Discoverability</name>
-        <mapping></mapping>
+        <mapping>riskscoring_DREAD_Discoverability</mapping>
       </column>
       <column>  
         <name>OWASP-Skill Level</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_SkillLevel</mapping>
       </column>
       <column>
         <name>OWASP-Motive</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_Motive</mapping>
       </column>
       <column>
         <name>OWASP-Opportunity</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_Opportunity</mapping>
       </column>
       <column>
         <name>OWASP-Size</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_Size</mapping>
       </column>
       <column>
         <name>OWASP-Ease of Discovery</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_EaseOfDiscovery</mapping>
       </column>
       <column>
         <name>OWASP-Ease of Exploit</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_EaseOfExploit</mapping>
       </column>
       <column>
         <name>OWASP-Awareness</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_Awareness</mapping>
       </column>
       <column>
         <name>OWASP-Intrusion Detection</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_IntrusionDetection</mapping>
       </column>
       <column>
         <name>OWASP-Loss of Confidentiality</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_LossOfConfidentiality</mapping>
       </column>
       <column>
         <name>OWASP-Loss of Integrity</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_LossOfIntegrity</mapping>
       </column>
       <column>
         <name>OWASP-Loss of Availability</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_LossOfAvailability</mapping>
       </column>
       <column>
         <name>OWASP-Loss of Accountability</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_LossOfAccountability</mapping>
       </column>
       <column>
         <name>OWASP-Financial Damage</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_FinancialDamage</mapping>
       </column>
       <column>
         <name>OWASP-Reputation Damage</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_ReputationDamage</mapping>
       </column>
       <column>
         <name>OWASP-Non-Compliance</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_NonCompliance</mapping>
       </column>
       <column>
         <name>OWASP-Privacy Violation</name>
-        <mapping></mapping>
+        <mapping>riskscoring_OWASP_PrivacyViolation</mapping>
       </column>
       <column>
         <name>Custom Value</name>
-        <mapping></mapping>
+        <mapping>riskscoring_Custom</mapping>
       </column>
       <column>
         <name>Contributing Likelihood</name>
-        <mapping></mapping>
+        <mapping>riskscoring_Contributing_Likelihood</mapping>
       </column>
       <column>
         <name>Contributing Subjects and Impacts</name>
-        <mapping></mapping>
+        <mapping>riskscoring_Contributing_Subjects_Impacts</mapping>
       </column>
     </columns>
   </assessment>
