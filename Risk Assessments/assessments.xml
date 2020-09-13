@@ -1,0 +1,220 @@
+<assessments>
+  <assessment name="nist_csf">
+    <name>NIST Cybersecurity Framework (CSF)</name>
+    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/NIST%20Cybersecurity%20Framework%20(CSF)/NIST_CSF.csv</file>
+    <columns>
+      <column>
+        <name>Questionnaire Template Name</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Question ID</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Question</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Has File</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Question Ordering</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Answer</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Submit Risk</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Subject</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Owner</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Affected Assets</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Sub Questions</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Risk Scoring Method</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Calculated Risk</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Classic-Likelihood</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Classic-Impact</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Attack Vector</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Attack Complexity</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Authentication</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Confidentiality Impact</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Integrity Impact</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Availability Impact</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Exploitability</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Remediation Level</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Report Confidence</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Collateral Damage Potential</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Target Distribution</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Confidentiality Requirement</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Integrity Requirement</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>CVSS-Availability Requirement</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>DREAD-Damage Potential</name>
+        <mapping></mapping>
+      </column>
+      <column>  
+        <name>DREAD-Reproducibility</name>
+        <mapping></mapping>
+      </column>
+      <column>  
+        <name>DREAD-Exploitability</name>
+        <mapping></mapping>
+      </column>
+      <column>  
+        <name>DREAD-Affected Users</name>
+        <mapping></mapping>
+      </column>
+      <column>  
+        <name>DREAD-Discoverability</name>
+        <mapping></mapping>
+      </column>
+      <column>  
+        <name>OWASP-Skill Level</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Motive</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Opportunity</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Size</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Ease of Discovery</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Ease of Exploit</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Awareness</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Intrusion Detection</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Loss of Confidentiality</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Loss of Integrity</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Loss of Availability</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Loss of Accountability</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Financial Damage</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Reputation Damage</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Non-Compliance</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>OWASP-Privacy Violation</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Custom Value</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Contributing Likelihood</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Contributing Subjects and Impacts</name>
+        <mapping></mapping>
+      </column>
+    </columns>
+  </assessment>
+</assessments>
