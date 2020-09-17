@@ -407,4 +407,38 @@
       </column>
     </columns>
   </framework>
+  <framework name="pci_dss_3_2_1_saq_d_merchant">
+    <name>PCI DSS v3.2.1 Self-Assessment Questionnaire D for Merchants</name>
+    <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/NIST%20Cybersecurity%20Framework%20(CSF)/NIST_CSF.csv</file>
+    <columns>
+      <column>
+        <name>Control Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+    </columns>
+  </framework>
 </frameworks>
