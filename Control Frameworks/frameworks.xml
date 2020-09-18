@@ -428,6 +428,10 @@
         <mapping>controls_description</mapping>
       </column>
       <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+      <column>
         <name>Control Number</name>
         <mapping>controls_control_number</mapping>
       </column>
