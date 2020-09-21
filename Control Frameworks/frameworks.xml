@@ -407,9 +407,9 @@
       </column>
     </columns>
   </framework>
-  <framework name="pci_dss_3_2_1_saq_d_merchant">
-    <name>PCI DSS v3.2.1 Self-Assessment Questionnaire D for Merchants</name>
-    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/PCI%20DSS%203.2.1/PCI%20DSS%20v3.2.1%20SAQ%20D%20Merchant.csv</file>
+  <framework name="pci_dss_3_2_1">
+    <name>PCI DSS v3.2.1</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/PCI%20DSS%203.2.1/PCI%20DSS%20v3.2.1.csv</file>
     <columns>
       <column>
         <name>Control Framework</name>
@@ -442,6 +442,10 @@
       <column>
         <name>Control Class</name>
         <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Control Priority</name>
+        <mapping>controls_control_priority</mapping>
       </column>
     </columns>
   </framework>
