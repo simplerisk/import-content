@@ -408,7 +408,7 @@
     </columns>
   </framework>
   <framework name="pci_dss_3_2_1">
-    <name>PCI DSS v3.2.1</name>
+    <name>PCI Data Security Standard v3.2.1</name>
     <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/PCI%20DSS%203.2.1/PCI%20DSS%20v3.2.1.csv</file>
     <columns>
       <column>
