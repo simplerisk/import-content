@@ -1,0 +1,841 @@
+Questionnaire Template Name,Question ID,Question,Has File,Question Ordering,Answer,Submit Risk,Subject,Owner,Affected Assets,Sub Questions,Risk Scoring Method,Calculated Risk,Classic-Likelihood,Classic-Impact,CVSS-Attack Vector,CVSS-Attack Complexity,CVSS-Authentication,CVSS-Confidentiality Impact,CVSS-Integrity Impact,CVSS-Availability Impact,CVSS-Exploitability,CVSS-Remediation Level,CVSS-Report Confidence,CVSS-Collateral Damage Potential,CVSS-Target Distribution,CVSS-Confidentiality Requirement,CVSS-Integrity Requirement,CVSS-Availability Requirement,DREAD-Damage Potential,DREAD-Reproducibility,DREAD-Exploitability,DREAD-Affected Users,DREAD-Discoverability,OWASP-Skill Level,OWASP-Motive,OWASP-Opportunity,OWASP-Size,OWASP-Ease of Discovery,OWASP-Ease of Exploit,OWASP-Awareness,OWASP-Intrusion Detection,OWASP-Loss of Confidentiality,OWASP-Loss of Integrity,OWASP-Loss of Availability,OWASP-Loss of Accountability,OWASP-Financial Damage,OWASP-Reputation Damage,OWASP-Non-Compliance,OWASP-Privacy Violation,Custom Value,Contributing Likelihood,Contributing Subjects and Impacts
+NIST SP 800-171 DoD Assessment,1,"3.1.1 Limit system access to authorized users, processes acting on behalf of authorized users, and devices (including other systems).",0,1,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,1,"3.1.1 Limit system access to authorized users, processes acting on behalf of authorized users, and devices (including other systems).",0,1,No,1,"3.1.1 Limit system access to authorized users, processes acting on behalf of authorized users, and devices (including other systems).",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,2,"3.1.2 Limit system access to the types of
+transactions and functions that authorized
+users are permitted to execute.",0,2,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,2,"3.1.2 Limit system access to the types of
+transactions and functions that authorized
+users are permitted to execute.",0,2,No,1,"3.1.2 Limit system access to the types of
+transactions and functions that authorized
+users are permitted to execute.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,3,"3.1.3 Control the flow of CUI in accordance with
+approved authorizations.",0,3,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,3,"3.1.3 Control the flow of CUI in accordance with
+approved authorizations.",0,3,No,1,"3.1.3 Control the flow of CUI in accordance with
+approved authorizations.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,4,"3.1.4 Separate the duties of individuals to reduce
+the risk of malevolent activity without
+collusion.",0,4,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,4,"3.1.4 Separate the duties of individuals to reduce
+the risk of malevolent activity without
+collusion.",0,4,No,1,"3.1.4 Separate the duties of individuals to reduce
+the risk of malevolent activity without
+collusion.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,5,"3.1.5 Employ the principle of least privilege,
+including for specific security functions and
+privileged accounts.",0,5,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,5,"3.1.5 Employ the principle of least privilege,
+including for specific security functions and
+privileged accounts.",0,5,No,1,"3.1.5 Employ the principle of least privilege,
+including for specific security functions and
+privileged accounts.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,6,"3.1.6 Use non-privileged accounts or roles when
+accessing non-security functions.",0,6,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,6,"3.1.6 Use non-privileged accounts or roles when
+accessing non-security functions.",0,6,No,1,"3.1.6 Use non-privileged accounts or roles when
+accessing non-security functions.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,7,"3.1.7 Prevent non-privileged users from executing
+privileged functions and capture the
+execution of such functions in audit logs.",0,7,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,7,"3.1.7 Prevent non-privileged users from executing
+privileged functions and capture the
+execution of such functions in audit logs.",0,7,No,1,"3.1.7 Prevent non-privileged users from executing
+privileged functions and capture the
+execution of such functions in audit logs.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,8,3.1.8 Limit unsuccessful logon attempts.,0,8,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,8,3.1.8 Limit unsuccessful logon attempts.,0,8,No,1,3.1.8 Limit unsuccessful logon attempts.,,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,9,"3.1.9 Provide privacy and security notices
+consistent with applicable CUI rules.",0,9,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,9,"3.1.9 Provide privacy and security notices
+consistent with applicable CUI rules.",0,9,No,1,"3.1.9 Provide privacy and security notices
+consistent with applicable CUI rules.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,10,"3.1.10 Use session lock with pattern-hiding displays
+to prevent access and viewing of data after a
+period of inactivity.",0,10,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,10,"3.1.10 Use session lock with pattern-hiding displays
+to prevent access and viewing of data after a
+period of inactivity.",0,10,No,1,"3.1.10 Use session lock with pattern-hiding displays
+to prevent access and viewing of data after a
+period of inactivity.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,11,"3.1.11 Terminate (automatically) a user session
+after a defined condition.",0,11,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,11,"3.1.11 Terminate (automatically) a user session
+after a defined condition.",0,11,No,1,"3.1.11 Terminate (automatically) a user session
+after a defined condition.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,12,3.1.12 Monitor and control remote access sessions.,0,12,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,12,3.1.12 Monitor and control remote access sessions.,0,12,No,1,3.1.12 Monitor and control remote access sessions.,,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,12,3.1.12 Monitor and control remote access sessions.,0,12,Remote access not permitted,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,13,"3.1.13 Employ cryptographic mechanisms to
+protect the confidentiality of remote access
+sessions.",0,13,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,13,"3.1.13 Employ cryptographic mechanisms to
+protect the confidentiality of remote access
+sessions.",0,13,No,1,"3.1.13 Employ cryptographic mechanisms to
+protect the confidentiality of remote access
+sessions.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,13,"3.1.13 Employ cryptographic mechanisms to
+protect the confidentiality of remote access
+sessions.",0,13,Remote access not permitted,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,14,"3.1.14 Route remote access via managed access
+control points.",0,14,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,14,"3.1.14 Route remote access via managed access
+control points.",0,14,No,1,"3.1.14 Route remote access via managed access
+control points.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,15,"3.1.15 Authorize remote execution of privileged
+commands and remote access to securityrelevant information.",0,15,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,15,"3.1.15 Authorize remote execution of privileged
+commands and remote access to securityrelevant information.",0,15,No,1,"3.1.15 Authorize remote execution of privileged
+commands and remote access to securityrelevant information.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,16,"3.1.16 Authorize wireless access prior to allowing
+such connections.",0,16,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,16,"3.1.16 Authorize wireless access prior to allowing
+such connections.",0,16,No,1,"3.1.16 Authorize wireless access prior to allowing
+such connections.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,16,"3.1.16 Authorize wireless access prior to allowing
+such connections.",0,16,Wireless access not permitted,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,17,"3.1.17 Protect wireless access using authentication
+and encryption.",0,17,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,17,"3.1.17 Protect wireless access using authentication
+and encryption.",0,17,No,1,"3.1.17 Protect wireless access using authentication
+and encryption.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,17,"3.1.17 Protect wireless access using authentication
+and encryption.",0,17,Wireless access not permitted,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,18,3.1.18 Control connection of mobile devices.,0,18,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,18,3.1.18 Control connection of mobile devices.,0,18,No,1,3.1.18 Control connection of mobile devices.,,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,18,3.1.18 Control connection of mobile devices.,0,18,Connection of mobile devices is not permitted,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,19,"3.1.19 Encrypt CUI on mobile devices and mobile
+computing platforms",0,19,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,19,"3.1.19 Encrypt CUI on mobile devices and mobile
+computing platforms",0,19,No,1,"3.1.19 Encrypt CUI on mobile devices and mobile
+computing platforms",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,20,"3.1.20 Verify and control/limit connections to and
+use of external systems.",0,20,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,20,"3.1.20 Verify and control/limit connections to and
+use of external systems.",0,20,No,1,"3.1.20 Verify and control/limit connections to and
+use of external systems.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,21,"3.1.21 Limit use of portable storage devices on
+external systems.",0,21,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,21,"3.1.21 Limit use of portable storage devices on
+external systems.",0,21,No,1,"3.1.21 Limit use of portable storage devices on
+external systems.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,22,"3.1.22 Control CUI posted or processed on publicly
+accessible systems.",0,22,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,22,"3.1.22 Control CUI posted or processed on publicly
+accessible systems.",0,22,No,1,"3.1.22 Control CUI posted or processed on publicly
+accessible systems.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,23,"3.2.1 Ensure that managers, systems
+administrators, and users of organizational
+systems are made aware of the security risks
+associated with their activities and of the
+applicable policies, standards, and
+procedures related to the security of those
+systems.",0,23,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,23,"3.2.1 Ensure that managers, systems
+administrators, and users of organizational
+systems are made aware of the security risks
+associated with their activities and of the
+applicable policies, standards, and
+procedures related to the security of those
+systems.",0,23,No,1,"3.2.1 Ensure that managers, systems
+administrators, and users of organizational
+systems are made aware of the security risks
+associated with their activities and of the
+applicable policies, standards, and
+procedures related to the security of those
+systems.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,24,"3.2.2 Ensure that personnel are trained to carry
+out their assigned information securityrelated duties and responsibilities.",0,24,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,24,"3.2.2 Ensure that personnel are trained to carry
+out their assigned information securityrelated duties and responsibilities.",0,24,No,1,"3.2.2 Ensure that personnel are trained to carry
+out their assigned information securityrelated duties and responsibilities.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,25,"3.2.3 Provide security awareness training on
+recognizing and reporting potential
+indicators of insider threat.",0,25,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,25,"3.2.3 Provide security awareness training on
+recognizing and reporting potential
+indicators of insider threat.",0,25,No,1,"3.2.3 Provide security awareness training on
+recognizing and reporting potential
+indicators of insider threat.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,26,"3.3.1 Create and retain system audit logs and
+records to the extent needed to enable the
+monitoring, analysis, investigation, and
+reporting of unlawful or unauthorized
+system activity.",0,26,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,26,"3.3.1 Create and retain system audit logs and
+records to the extent needed to enable the
+monitoring, analysis, investigation, and
+reporting of unlawful or unauthorized
+system activity.",0,26,No,1,"3.3.1 Create and retain system audit logs and
+records to the extent needed to enable the
+monitoring, analysis, investigation, and
+reporting of unlawful or unauthorized
+system activity.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,27,"3.3.2 Ensure that the actions of individual system
+users can be uniquely traced to those users
+so they can be held accountable for their
+actions.",0,27,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,27,"3.3.2 Ensure that the actions of individual system
+users can be uniquely traced to those users
+so they can be held accountable for their
+actions.",0,27,No,1,"3.3.2 Ensure that the actions of individual system
+users can be uniquely traced to those users
+so they can be held accountable for their
+actions.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,28,3.3.3 Review and update logged events.,0,28,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,28,3.3.3 Review and update logged events.,0,28,No,1,3.3.3 Review and update logged events.,,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,29,"3.3.4 Alert in the event of an audit logging process
+failure.",0,29,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,29,"3.3.4 Alert in the event of an audit logging process
+failure.",0,29,No,1,"3.3.4 Alert in the event of an audit logging process
+failure.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,30,"3.3.5 Correlate audit record review, analysis, and
+reporting processes for investigation and
+response to indications of unlawful,
+unauthorized, suspicious, or unusual activity.",0,30,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,30,"3.3.5 Correlate audit record review, analysis, and
+reporting processes for investigation and
+response to indications of unlawful,
+unauthorized, suspicious, or unusual activity.",0,30,No,1,"3.3.5 Correlate audit record review, analysis, and
+reporting processes for investigation and
+response to indications of unlawful,
+unauthorized, suspicious, or unusual activity.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,31,"3.3.6 Provide audit record reduction and report
+generation to support on-demand analysis
+and reporting.",0,31,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,31,"3.3.6 Provide audit record reduction and report
+generation to support on-demand analysis
+and reporting.",0,31,No,1,"3.3.6 Provide audit record reduction and report
+generation to support on-demand analysis
+and reporting.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,32,"3.3.7 Provide a system capability that compares
+and synchronizes internal system clocks with
+an authoritative source to generate time
+stamps for audit records.",0,32,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,32,"3.3.7 Provide a system capability that compares
+and synchronizes internal system clocks with
+an authoritative source to generate time
+stamps for audit records.",0,32,No,1,"3.3.7 Provide a system capability that compares
+and synchronizes internal system clocks with
+an authoritative source to generate time
+stamps for audit records.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,33,"3.3.8 Protect audit information and audit logging
+tools from unauthorized access,
+modification, and deletion.",0,33,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,33,"3.3.8 Protect audit information and audit logging
+tools from unauthorized access,
+modification, and deletion.",0,33,No,1,"3.3.8 Protect audit information and audit logging
+tools from unauthorized access,
+modification, and deletion.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,34,"3.3.9 Limit management of audit logging
+functionality to a subset of privileged users.",0,34,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,34,"3.3.9 Limit management of audit logging
+functionality to a subset of privileged users.",0,34,No,1,"3.3.9 Limit management of audit logging
+functionality to a subset of privileged users.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,35,"3.4.1 Establish and maintain baseline
+configurations and inventories of
+organizational systems (including hardware,
+software, firmware, and documentation)
+throughout the respective system
+development life cycles.",0,35,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,35,"3.4.1 Establish and maintain baseline
+configurations and inventories of
+organizational systems (including hardware,
+software, firmware, and documentation)
+throughout the respective system
+development life cycles.",0,35,No,1,"3.4.1 Establish and maintain baseline
+configurations and inventories of
+organizational systems (including hardware,
+software, firmware, and documentation)
+throughout the respective system
+development life cycles.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,36,"3.4.2 Establish and enforce security configuration
+settings for information technology products
+employed in organizational systems.",0,36,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,36,"3.4.2 Establish and enforce security configuration
+settings for information technology products
+employed in organizational systems.",0,36,No,1,"3.4.2 Establish and enforce security configuration
+settings for information technology products
+employed in organizational systems.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,37,"3.4.3 Track, review, approve or disapprove, and
+log changes to organizational systems.",0,37,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,37,"3.4.3 Track, review, approve or disapprove, and
+log changes to organizational systems.",0,37,No,1,"3.4.3 Track, review, approve or disapprove, and
+log changes to organizational systems.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,38,"3.4.4 Analyze the security impact of changes prior
+to implementation.",0,38,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,38,"3.4.4 Analyze the security impact of changes prior
+to implementation.",0,38,No,1,"3.4.4 Analyze the security impact of changes prior
+to implementation.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,39,"3.4.5 Define, document, approve, and enforce
+physical and logical access restrictions
+associated with changes to organizational
+systems.",0,39,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,39,"3.4.5 Define, document, approve, and enforce
+physical and logical access restrictions
+associated with changes to organizational
+systems.",0,39,No,1,"3.4.5 Define, document, approve, and enforce
+physical and logical access restrictions
+associated with changes to organizational
+systems.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,40,"3.4.6 Employ the principle of least functionality by
+configuring organizational systems to
+provide only essential capabilities.",0,40,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,40,"3.4.6 Employ the principle of least functionality by
+configuring organizational systems to
+provide only essential capabilities.",0,40,No,1,"3.4.6 Employ the principle of least functionality by
+configuring organizational systems to
+provide only essential capabilities.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,41,"3.4.7 Restrict, disable, or prevent the use of
+nonessential programs, functions, ports,
+protocols, and services.",0,41,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,41,"3.4.7 Restrict, disable, or prevent the use of
+nonessential programs, functions, ports,
+protocols, and services.",0,41,No,1,"3.4.7 Restrict, disable, or prevent the use of
+nonessential programs, functions, ports,
+protocols, and services.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,42,"3.4.8 Apply deny-by-exception (blacklisting) policy
+to prevent the use of unauthorized software
+or deny-all, permit-by-exception
+(whitelisting) policy to allow the execution of
+authorized software.",0,42,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,42,"3.4.8 Apply deny-by-exception (blacklisting) policy
+to prevent the use of unauthorized software
+or deny-all, permit-by-exception
+(whitelisting) policy to allow the execution of
+authorized software.",0,42,No,1,"3.4.8 Apply deny-by-exception (blacklisting) policy
+to prevent the use of unauthorized software
+or deny-all, permit-by-exception
+(whitelisting) policy to allow the execution of
+authorized software.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,43,3.4.9 Control and monitor user-installed software.,0,43,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,43,3.4.9 Control and monitor user-installed software.,0,43,No,1,3.4.9 Control and monitor user-installed software.,,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,44,"3.5.1 Identify system users, processes acting on
+behalf of users, and devices.",0,44,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,44,"3.5.1 Identify system users, processes acting on
+behalf of users, and devices.",0,44,No,1,"3.5.1 Identify system users, processes acting on
+behalf of users, and devices.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,45,"3.5.2 Authenticate (or verify) the identities of
+users, processes, or devices, as a
+prerequisite to allowing access to
+organizational systems.",0,45,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,45,"3.5.2 Authenticate (or verify) the identities of
+users, processes, or devices, as a
+prerequisite to allowing access to
+organizational systems.",0,45,No,1,"3.5.2 Authenticate (or verify) the identities of
+users, processes, or devices, as a
+prerequisite to allowing access to
+organizational systems.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,46,"3.5.3 Use multifactor authentication (MFA) for
+local and network access to privileged
+accounts and for network access to nonprivileged accounts.",0,46,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,46,"3.5.3 Use multifactor authentication (MFA) for
+local and network access to privileged
+accounts and for network access to nonprivileged accounts.",0,46,MFA not implemented,1,"3.5.3 Use multifactor authentication (MFA) for
+local and network access to privileged
+accounts and for network access to nonprivileged accounts.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,46,"3.5.3 Use multifactor authentication (MFA) for
+local and network access to privileged
+accounts and for network access to nonprivileged accounts.",0,46,"MFA implemented for remote and privileged users, but not the general user",1,"3.5.3 Use multifactor authentication (MFA) for
+local and network access to privileged
+accounts and for network access to nonprivileged accounts.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,47,"3.5.4 Employ replay-resistant authentication
+mechanisms for network access to privileged
+and non-privileged accounts.",0,47,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,47,"3.5.4 Employ replay-resistant authentication
+mechanisms for network access to privileged
+and non-privileged accounts.",0,47,No,1,"3.5.4 Employ replay-resistant authentication
+mechanisms for network access to privileged
+and non-privileged accounts.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,48,"3.5.5 Prevent reuse of identifiers for a defined
+period.",0,48,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,48,"3.5.5 Prevent reuse of identifiers for a defined
+period.",0,48,No,1,"3.5.5 Prevent reuse of identifiers for a defined
+period.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,49,"3.5.6 Disable identifiers after a defined period of
+inactivity.",0,49,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,49,"3.5.6 Disable identifiers after a defined period of
+inactivity.",0,49,No,1,"3.5.6 Disable identifiers after a defined period of
+inactivity.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,50,"3.5.7 Enforce a minimum password complexity
+and change of characters when new
+passwords are created.",0,50,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,50,"3.5.7 Enforce a minimum password complexity
+and change of characters when new
+passwords are created.",0,50,No,1,"3.5.7 Enforce a minimum password complexity
+and change of characters when new
+passwords are created.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,51,"3.5.8 Prohibit password reuse for a specified
+number of generations.",0,51,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,51,"3.5.8 Prohibit password reuse for a specified
+number of generations.",0,51,No,1,"3.5.8 Prohibit password reuse for a specified
+number of generations.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,52,"3.5.9 Allow temporary password use for system
+logons with an immediate change to a
+permanent password.",0,52,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,52,"3.5.9 Allow temporary password use for system
+logons with an immediate change to a
+permanent password.",0,52,No,1,"3.5.9 Allow temporary password use for system
+logons with an immediate change to a
+permanent password.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,53,3.5.10 Store and transmit only cryptographicallyprotected passwords.,0,53,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,53,3.5.10 Store and transmit only cryptographicallyprotected passwords.,0,53,No,1,3.5.10 Store and transmit only cryptographicallyprotected passwords.,,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,54,"3.5.11 Obscure feedback of authentication
+information.",0,54,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,54,"3.5.11 Obscure feedback of authentication
+information.",0,54,No,1,"3.5.11 Obscure feedback of authentication
+information.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,55,"3.6.1 Establish an operational incident-handling
+capability for organizational systems that
+includes preparation, detection, analysis,
+containment, recovery, and user response
+activities.",0,55,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,55,"3.6.1 Establish an operational incident-handling
+capability for organizational systems that
+includes preparation, detection, analysis,
+containment, recovery, and user response
+activities.",0,55,No,1,"3.6.1 Establish an operational incident-handling
+capability for organizational systems that
+includes preparation, detection, analysis,
+containment, recovery, and user response
+activities.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,56,"3.6.2 Track, document, and report incidents to
+designated officials and/or authorities both
+internal and external to the organization.",0,56,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,56,"3.6.2 Track, document, and report incidents to
+designated officials and/or authorities both
+internal and external to the organization.",0,56,No,1,"3.6.2 Track, document, and report incidents to
+designated officials and/or authorities both
+internal and external to the organization.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,57,"3.6.3 Test the organizational incident response
+capability.",0,57,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,57,"3.6.3 Test the organizational incident response
+capability.",0,57,No,1,"3.6.3 Test the organizational incident response
+capability.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,58,"3.7.1 Perform maintenance on organizational
+systems.",0,58,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,58,"3.7.1 Perform maintenance on organizational
+systems.",0,58,No,1,"3.7.1 Perform maintenance on organizational
+systems.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,59,"3.7.2 Provide controls on the tools, techniques,
+mechanisms, and personnel used to conduct
+system maintenance.",0,59,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,59,"3.7.2 Provide controls on the tools, techniques,
+mechanisms, and personnel used to conduct
+system maintenance.",0,59,No,1,"3.7.2 Provide controls on the tools, techniques,
+mechanisms, and personnel used to conduct
+system maintenance.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,60,"3.7.3 Ensure equipment removed for off-site
+maintenance is sanitized of any CUI.",0,60,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,60,"3.7.3 Ensure equipment removed for off-site
+maintenance is sanitized of any CUI.",0,60,No,1,"3.7.3 Ensure equipment removed for off-site
+maintenance is sanitized of any CUI.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,61,"3.7.4 Check media containing diagnostic and test
+programs for malicious code before the
+media are used in organizational systems.",0,61,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,61,"3.7.4 Check media containing diagnostic and test
+programs for malicious code before the
+media are used in organizational systems.",0,61,No,1,"3.7.4 Check media containing diagnostic and test
+programs for malicious code before the
+media are used in organizational systems.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,62,"3.7.5 Require multifactor authentication to
+establish nonlocal maintenance sessions via
+external network connections and terminate
+such connections when nonlocal
+maintenance is complete.",0,62,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,62,"3.7.5 Require multifactor authentication to
+establish nonlocal maintenance sessions via
+external network connections and terminate
+such connections when nonlocal
+maintenance is complete.",0,62,No,1,"3.7.5 Require multifactor authentication to
+establish nonlocal maintenance sessions via
+external network connections and terminate
+such connections when nonlocal
+maintenance is complete.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,63,"3.7.6 Supervise the maintenance activities of
+maintenance personnel without required
+access authorization.",0,63,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,63,"3.7.6 Supervise the maintenance activities of
+maintenance personnel without required
+access authorization.",0,63,No,1,"3.7.6 Supervise the maintenance activities of
+maintenance personnel without required
+access authorization.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,64,"3.8.1 Protect (i.e., physically control and securely
+store) system media containing CUI, both
+paper and digital.",0,64,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,64,"3.8.1 Protect (i.e., physically control and securely
+store) system media containing CUI, both
+paper and digital.",0,64,No,1,"3.8.1 Protect (i.e., physically control and securely
+store) system media containing CUI, both
+paper and digital.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,65,"3.8.2 Limit access to CUI on system media to
+authorized users.",0,65,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,65,"3.8.2 Limit access to CUI on system media to
+authorized users.",0,65,No,1,"3.8.2 Limit access to CUI on system media to
+authorized users.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,66,"3.8.3 Sanitize or destroy system media containing
+CUI before disposal or release for reuse.",0,66,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,66,"3.8.3 Sanitize or destroy system media containing
+CUI before disposal or release for reuse.",0,66,No,1,"3.8.3 Sanitize or destroy system media containing
+CUI before disposal or release for reuse.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,67,"3.8.4 Mark media with necessary CUI markings
+and distribution limitations.",0,67,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,67,"3.8.4 Mark media with necessary CUI markings
+and distribution limitations.",0,67,No,1,"3.8.4 Mark media with necessary CUI markings
+and distribution limitations.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,68,"3.8.5 Control access to media containing CUI and
+maintain accountability for media during
+transport outside of controlled areas.",0,68,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,68,"3.8.5 Control access to media containing CUI and
+maintain accountability for media during
+transport outside of controlled areas.",0,68,No,1,"3.8.5 Control access to media containing CUI and
+maintain accountability for media during
+transport outside of controlled areas.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,69,"3.8.6 Implement cryptographic mechanisms to
+protect the confidentiality of CUI stored on
+digital media during transport unless
+otherwise protected by alternative physical
+safeguards.",0,69,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,69,"3.8.6 Implement cryptographic mechanisms to
+protect the confidentiality of CUI stored on
+digital media during transport unless
+otherwise protected by alternative physical
+safeguards.",0,69,No,1,"3.8.6 Implement cryptographic mechanisms to
+protect the confidentiality of CUI stored on
+digital media during transport unless
+otherwise protected by alternative physical
+safeguards.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,70,"3.8.7 Control the use of removable media on
+system components.",0,70,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,70,"3.8.7 Control the use of removable media on
+system components.",0,70,No,1,"3.8.7 Control the use of removable media on
+system components.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,71,"3.8.8 Prohibit the use of portable storage devices
+when such devices have no identifiable
+owner.",0,71,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,71,"3.8.8 Prohibit the use of portable storage devices
+when such devices have no identifiable
+owner.",0,71,No,1,"3.8.8 Prohibit the use of portable storage devices
+when such devices have no identifiable
+owner.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,72,"3.8.9 Protect the confidentiality of backup CUI at
+storage locations.",0,72,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,72,"3.8.9 Protect the confidentiality of backup CUI at
+storage locations.",0,72,No,1,"3.8.9 Protect the confidentiality of backup CUI at
+storage locations.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,73,"3.9.1 Screen individuals prior to authorizing access
+to organizational systems containing CUI.",0,73,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,73,"3.9.1 Screen individuals prior to authorizing access
+to organizational systems containing CUI.",0,73,No,1,"3.9.1 Screen individuals prior to authorizing access
+to organizational systems containing CUI.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,74,"3.9.2 Ensure that organizational systems
+containing CUI are protected during and
+after personnel actions such as terminations
+and transfers.",0,74,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,74,"3.9.2 Ensure that organizational systems
+containing CUI are protected during and
+after personnel actions such as terminations
+and transfers.",0,74,No,1,"3.9.2 Ensure that organizational systems
+containing CUI are protected during and
+after personnel actions such as terminations
+and transfers.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,75,"3.10.1 Limit physical access to organizational
+systems, equipment, and the respective
+operating environments to authorized
+individuals.",0,75,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,75,"3.10.1 Limit physical access to organizational
+systems, equipment, and the respective
+operating environments to authorized
+individuals.",0,75,No,1,"3.10.1 Limit physical access to organizational
+systems, equipment, and the respective
+operating environments to authorized
+individuals.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,76,"3.10.2 Protect and monitor the physical facility and
+support infrastructure for organizational
+systems.",0,76,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,76,"3.10.2 Protect and monitor the physical facility and
+support infrastructure for organizational
+systems.",0,76,No,1,"3.10.2 Protect and monitor the physical facility and
+support infrastructure for organizational
+systems.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,77,3.10.3 Escort visitors and monitor visitor activity.,0,77,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,77,3.10.3 Escort visitors and monitor visitor activity.,0,77,No,1,3.10.3 Escort visitors and monitor visitor activity.,,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,78,3.10.4 Maintain audit logs of physical access.,0,78,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,78,3.10.4 Maintain audit logs of physical access.,0,78,No,1,3.10.4 Maintain audit logs of physical access.,,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,79,3.10.5 Control and manage physical access devices.,0,79,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,79,3.10.5 Control and manage physical access devices.,0,79,No,1,3.10.5 Control and manage physical access devices.,,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,80,"3.10.6 Enforce safeguarding measures for CUI at
+alternate work sites.",0,80,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,80,"3.10.6 Enforce safeguarding measures for CUI at
+alternate work sites.",0,80,No,1,"3.10.6 Enforce safeguarding measures for CUI at
+alternate work sites.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,81,"3.11.1 Periodically assess the risk to organizational
+operations (including mission, functions,
+image, or reputation), organizational assets,
+and individuals, resulting from the operation
+of organizational systems and the associated
+processing, storage, or transmission of CUI.",0,81,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,81,"3.11.1 Periodically assess the risk to organizational
+operations (including mission, functions,
+image, or reputation), organizational assets,
+and individuals, resulting from the operation
+of organizational systems and the associated
+processing, storage, or transmission of CUI.",0,81,No,1,"3.11.1 Periodically assess the risk to organizational
+operations (including mission, functions,
+image, or reputation), organizational assets,
+and individuals, resulting from the operation
+of organizational systems and the associated
+processing, storage, or transmission of CUI.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,82,"3.11.2 Scan for vulnerabilities in organizational
+systems and applications periodically and
+when new vulnerabilities affecting those
+systems and applications are identified.",0,82,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,82,"3.11.2 Scan for vulnerabilities in organizational
+systems and applications periodically and
+when new vulnerabilities affecting those
+systems and applications are identified.",0,82,No,1,"3.11.2 Scan for vulnerabilities in organizational
+systems and applications periodically and
+when new vulnerabilities affecting those
+systems and applications are identified.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,83,"3.11.3 Remediate vulnerabilities in accordance with
+risk assessments.",0,83,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,83,"3.11.3 Remediate vulnerabilities in accordance with
+risk assessments.",0,83,No,1,"3.11.3 Remediate vulnerabilities in accordance with
+risk assessments.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,84,"3.12.1 Periodically assess the security controls in
+organizational systems to determine if the
+controls are effective in their application.",0,84,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,84,"3.12.1 Periodically assess the security controls in
+organizational systems to determine if the
+controls are effective in their application.",0,84,No,1,"3.12.1 Periodically assess the security controls in
+organizational systems to determine if the
+controls are effective in their application.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,85,"3.12.2 Develop and implement plans of action
+designed to correct deficiencies and reduce
+or eliminate vulnerabilities in organizational
+systems.",0,85,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,85,"3.12.2 Develop and implement plans of action
+designed to correct deficiencies and reduce
+or eliminate vulnerabilities in organizational
+systems.",0,85,No,1,"3.12.2 Develop and implement plans of action
+designed to correct deficiencies and reduce
+or eliminate vulnerabilities in organizational
+systems.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,86,"3.12.3 Monitor security controls on an ongoing
+basis to ensure the continued effectiveness
+of the controls.",0,86,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,86,"3.12.3 Monitor security controls on an ongoing
+basis to ensure the continued effectiveness
+of the controls.",0,86,No,1,"3.12.3 Monitor security controls on an ongoing
+basis to ensure the continued effectiveness
+of the controls.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,87,"3.12.4 Develop, document, and periodically update
+system security plans that describe system
+boundaries, system environments of
+operation, how security requirements are
+implemented, and the relationships with or
+connections to other systems.",0,87,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,87,"3.12.4 Develop, document, and periodically update
+system security plans that describe system
+boundaries, system environments of
+operation, how security requirements are
+implemented, and the relationships with or
+connections to other systems.",0,87,No,1,"3.12.4 Develop, document, and periodically update
+system security plans that describe system
+boundaries, system environments of
+operation, how security requirements are
+implemented, and the relationships with or
+connections to other systems.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,88,"3.13.1 Monitor, control, and protect
+communications (i.e., information
+transmitted or received by organizational
+systems) at the external boundaries and key
+internal boundaries of organizational
+systems.",0,88,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,88,"3.13.1 Monitor, control, and protect
+communications (i.e., information
+transmitted or received by organizational
+systems) at the external boundaries and key
+internal boundaries of organizational
+systems.",0,88,No,1,"3.13.1 Monitor, control, and protect
+communications (i.e., information
+transmitted or received by organizational
+systems) at the external boundaries and key
+internal boundaries of organizational
+systems.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,89,"3.13.2 Employ architectural designs, software
+development techniques, and systems
+engineering principles that promote
+effective information security within
+organizational systems.",0,89,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,89,"3.13.2 Employ architectural designs, software
+development techniques, and systems
+engineering principles that promote
+effective information security within
+organizational systems.",0,89,No,1,"3.13.2 Employ architectural designs, software
+development techniques, and systems
+engineering principles that promote
+effective information security within
+organizational systems.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,90,"3.13.3 Separate user functionality from system
+management functionality.",0,90,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,90,"3.13.3 Separate user functionality from system
+management functionality.",0,90,No,1,"3.13.3 Separate user functionality from system
+management functionality.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,91,"3.13.4 Prevent unauthorized and unintended
+information transfer via shared system
+resources.",0,91,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,91,"3.13.4 Prevent unauthorized and unintended
+information transfer via shared system
+resources.",0,91,No,1,"3.13.4 Prevent unauthorized and unintended
+information transfer via shared system
+resources.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,92,"3.13.5 Implement subnetworks for publicly
+accessible system components that are
+physically or logically separated from
+internal networks.",0,92,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,92,"3.13.5 Implement subnetworks for publicly
+accessible system components that are
+physically or logically separated from
+internal networks.",0,92,No,1,"3.13.5 Implement subnetworks for publicly
+accessible system components that are
+physically or logically separated from
+internal networks.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,93,"3.13.6 Deny network communications traffic by
+default and allow network communications
+traffic by exception (i.e., deny all, permit by
+exception).",0,93,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,93,"3.13.6 Deny network communications traffic by
+default and allow network communications
+traffic by exception (i.e., deny all, permit by
+exception).",0,93,No,1,"3.13.6 Deny network communications traffic by
+default and allow network communications
+traffic by exception (i.e., deny all, permit by
+exception).",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,94,"3.13.7 Prevent remote devices from simultaneously
+establishing non-remote connections with
+organizational systems and communicating
+via some other connection to resources in
+external networks (i.e., split tunneling).",0,94,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,94,"3.13.7 Prevent remote devices from simultaneously
+establishing non-remote connections with
+organizational systems and communicating
+via some other connection to resources in
+external networks (i.e., split tunneling).",0,94,No,1,"3.13.7 Prevent remote devices from simultaneously
+establishing non-remote connections with
+organizational systems and communicating
+via some other connection to resources in
+external networks (i.e., split tunneling).",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,95,"3.13.8 Implement cryptographic mechanisms to
+prevent unauthorized disclosure of CUI
+during transmission unless otherwise
+protected by alternative physical safeguards.",0,95,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,95,"3.13.8 Implement cryptographic mechanisms to
+prevent unauthorized disclosure of CUI
+during transmission unless otherwise
+protected by alternative physical safeguards.",0,95,No,1,"3.13.8 Implement cryptographic mechanisms to
+prevent unauthorized disclosure of CUI
+during transmission unless otherwise
+protected by alternative physical safeguards.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,96,"3.13.9 Terminate network connections associated
+with communications sessions at the end of
+the sessions or after a defined period of
+inactivity.",0,96,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,96,"3.13.9 Terminate network connections associated
+with communications sessions at the end of
+the sessions or after a defined period of
+inactivity.",0,96,No,1,"3.13.9 Terminate network connections associated
+with communications sessions at the end of
+the sessions or after a defined period of
+inactivity.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,97,"3.13.10 Establish and manage cryptographic keys for
+cryptography employed in organizational
+systems.",0,97,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,97,"3.13.10 Establish and manage cryptographic keys for
+cryptography employed in organizational
+systems.",0,97,No,1,"3.13.10 Establish and manage cryptographic keys for
+cryptography employed in organizational
+systems.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,98,"3.13.11 Employ FIPS-validated cryptography when
+used to protect the confidentiality of CUI.",0,98,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,98,"3.13.11 Employ FIPS-validated cryptography when
+used to protect the confidentiality of CUI.",0,98,No cryptography is employed,1,"3.13.11 Employ FIPS-validated cryptography when
+used to protect the confidentiality of CUI.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,98,"3.13.11 Employ FIPS-validated cryptography when
+used to protect the confidentiality of CUI.",0,98,Not FIPS validated,1,"3.13.11 Employ FIPS-validated cryptography when
+used to protect the confidentiality of CUI.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,99,"3.13.12 Prohibit remote activation of collaborative
+computing devices and provide indication of
+devices in use to users present at the device.",0,99,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,99,"3.13.12 Prohibit remote activation of collaborative
+computing devices and provide indication of
+devices in use to users present at the device.",0,99,No,1,"3.13.12 Prohibit remote activation of collaborative
+computing devices and provide indication of
+devices in use to users present at the device.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,100,3.13.13 Control and monitor the use of mobile code.,0,100,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,100,3.13.13 Control and monitor the use of mobile code.,0,100,No,1,3.13.13 Control and monitor the use of mobile code.,,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,101,"3.13.14 Control and monitor the use of Voice over
+Internet Protocol (VoIP) technologies.",0,101,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,101,"3.13.14 Control and monitor the use of Voice over
+Internet Protocol (VoIP) technologies.",0,101,No,1,"3.13.14 Control and monitor the use of Voice over
+Internet Protocol (VoIP) technologies.",,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,102,"3.13.15 Protect the authenticity of communications
+sessions.",0,102,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,102,"3.13.15 Protect the authenticity of communications
+sessions.",0,102,No,1,"3.13.15 Protect the authenticity of communications
+sessions.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,103,3.13.16 Protect the confidentiality of CUI at rest.,0,103,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,103,3.13.16 Protect the confidentiality of CUI at rest.,0,103,No,1,3.13.16 Protect the confidentiality of CUI at rest.,,,,Custom,1,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,104,"3.14.1 Identify, report, and correct system flaws in
+a timely manner.",0,104,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,104,"3.14.1 Identify, report, and correct system flaws in
+a timely manner.",0,104,No,1,"3.14.1 Identify, report, and correct system flaws in
+a timely manner.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,105,"3.14.2 Provide protection from malicious code at
+designated locations within organizational
+systems.",0,105,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,105,"3.14.2 Provide protection from malicious code at
+designated locations within organizational
+systems.",0,105,No,1,"3.14.2 Provide protection from malicious code at
+designated locations within organizational
+systems.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,106,"3.14.3 Monitor system security alerts and
+advisories and take action in response.",0,106,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,106,"3.14.3 Monitor system security alerts and
+advisories and take action in response.",0,106,No,1,"3.14.3 Monitor system security alerts and
+advisories and take action in response.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,107,"3.14.4 Update malicious code protection
+mechanisms when new releases are
+available.",0,107,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,107,"3.14.4 Update malicious code protection
+mechanisms when new releases are
+available.",0,107,No,1,"3.14.4 Update malicious code protection
+mechanisms when new releases are
+available.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,108,"3.14.5 Perform periodic scans of organizational
+systems and real-time scans of files from
+external sources as files are downloaded,
+opened, or executed.",0,108,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,108,"3.14.5 Perform periodic scans of organizational
+systems and real-time scans of files from
+external sources as files are downloaded,
+opened, or executed.",0,108,No,1,"3.14.5 Perform periodic scans of organizational
+systems and real-time scans of files from
+external sources as files are downloaded,
+opened, or executed.",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,109,"3.14.6 Monitor organizational systems, including
+inbound and outbound communications
+traffic, to detect attacks and indicators of
+potential attacks.",0,109,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,109,"3.14.6 Monitor organizational systems, including
+inbound and outbound communications
+traffic, to detect attacks and indicators of
+potential attacks.",0,109,No,1,"3.14.6 Monitor organizational systems, including
+inbound and outbound communications
+traffic, to detect attacks and indicators of
+potential attacks.",,,,Custom,5,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,110,"3.14.7 Identify unauthorized use of organizational
+systems",0,110,Yes,0,,,,,Custom,10,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
+NIST SP 800-171 DoD Assessment,110,"3.14.7 Identify unauthorized use of organizational
+systems",0,110,No,1,"3.14.7 Identify unauthorized use of organizational
+systems",,,,Custom,3,Almost Certain,Extreme/Catastrophic,N,L,N,C,C,C,ND,ND,ND,ND,ND,ND,ND,ND,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,,
