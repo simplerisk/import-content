@@ -220,7 +220,7 @@
 <assessments>
   <assessment name="nist_csf">
     <name>NIST SP 800-171 DoD Assessment</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/NIST%20SP%20800-171%20DoD%20Assessment/NIST%20SP%20800-171%20DoD%20Assessment.csv</file>
+    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/NIST%20SP%20800-171%20DoD%20Assessment/NIST_SP_800-171_DoD_Assessment.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
