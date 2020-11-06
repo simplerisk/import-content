@@ -295,7 +295,7 @@
   </framework>
   <framework name="fedramp_low_baseline_controls">
     <name>FedRAMP Low Baseline Controls</name>
-    <file></file>
+    <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/FedRAMP%20Security%20Control%20Baselines/Low%20Baseline%20Controls.csv</file>
     <columns>
       <column>
         <name>Framework Name</name>
@@ -329,7 +329,7 @@
   </framework>
   <framework name="fedramp_moderate_baseline_controls">
     <name>FedRAMP Moderate Baseline Controls</name>
-    <file></file>
+    <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/FedRAMP%20Security%20Control%20Baselines/Moderate%20Baseline%20Controls.csv</file>
     <columns>
       <column>
         <name>Framework Name</name>
@@ -363,7 +363,7 @@
   </framework>
   <framework name="fedramp_high_baseline_controls">
     <name>FedRAMP High Baseline Controls</name>
-    <file></file>
+    <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/FedRAMP%20Security%20Control%20Baselines/High%20Baseline%20Controls.csv</file>
     <columns>
       <column>
         <name>Framework Name</name>
