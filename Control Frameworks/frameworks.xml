@@ -475,6 +475,45 @@
       </column>
     </columns>
   </framework>
+    <framework name="nist_800_171">
+    <name>NIST 800-171</name>
+    <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/NIST%20800-171/NIST_800_171.csv</file>
+    <columns>
+      <column>
+        <name>Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+      <column>
+        <name>Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+    </columns>
+  </framework>
   <framework name="nist_csf">
     <name>NIST Cybersecurity Framework (CSF)</name>
     <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/NIST%20Cybersecurity%20Framework%20(CSF)/NIST_CSF.csv</file>
