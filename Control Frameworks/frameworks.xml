@@ -475,7 +475,7 @@
       </column>
     </columns>
   </framework>
-    <framework name="nist_800_171">
+  <framework name="nist_800_171">
     <name>NIST 800-171</name>
     <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/NIST%20800-171/NIST_800_171.csv</file>
     <columns>
@@ -499,7 +499,6 @@
         <name>Short Name</name>
         <mapping>controls_short_name</mapping>
       </column>
-      <column>
       <column>
         <name>Long Name</name>
         <mapping>controls_long_name</mapping>
