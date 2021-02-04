@@ -1,109 +1,109 @@
-Control Framework,Control Number,Question ID,Question,Question Ordering
-NIST Cybersecurity Framework (CSF),ID.AM-1,1,Are physical devices and systems within the organization are inventoried?,1
-NIST Cybersecurity Framework (CSF),ID.AM-2,2,Are software platforms and applications within the organization inventoried?,2
-NIST Cybersecurity Framework (CSF),ID.AM-3,3,Are organizational communication and data flows mapped?,3
-NIST Cybersecurity Framework (CSF),ID.AM-4,4,Are external information systems catalogued?,4
-NIST Cybersecurity Framework (CSF),ID.AM-5,5,"Are resources (e.g., hardware, devices, data, time, personnel, and software) prioritized based on their classification, criticality, and business value?",5
-NIST Cybersecurity Framework (CSF),ID.AM-6,6,"Are cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) established?",6
-NIST Cybersecurity Framework (CSF),ID.BE-1,7,Are the organization’s role in the supply chain identified and communicated?,7
-NIST Cybersecurity Framework (CSF),ID.BE-2,8,Are the organization’s place in critical infrastructure and its industry sector identified and communicated?,8
-NIST Cybersecurity Framework (CSF),ID.BE-3,9,"Are priorities for organizational mission, objectives, and activities are established and communicated",9
-NIST Cybersecurity Framework (CSF),ID.BE-4,10,Are dependencies and critical functions for delivery of critical services established?,10
-NIST Cybersecurity Framework (CSF),ID.BE-5,11,"Are resilience requirements to support delivery of critical services established for all operating states? (e.g. under duress/attack, during recovery, normal operations)",11
-NIST Cybersecurity Framework (CSF),ID.GV-1,12,Are organizational cybersecurity policies established and communicated?,12
-NIST Cybersecurity Framework (CSF),ID.GV-2,13,Are cybersecurity roles and responsibilities coordinated and aligned with internal roles and external partners?,13
-NIST Cybersecurity Framework (CSF),ID.GV-3,14,"Are legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, understood and managed?",14
-NIST Cybersecurity Framework (CSF),ID.GV-4,15,Are governance and risk management processes in place to address cybersecurity risks?,15
-NIST Cybersecurity Framework (CSF),ID.RA-1,16,Are asset vulnerabilities identified and documented?,16
-NIST Cybersecurity Framework (CSF),ID.RA-2,17,Is cyber threat intelligence received from information sharing forums and sources?,17
-NIST Cybersecurity Framework (CSF),ID.RA-3,18,"Are threats, both internal and external, identified and documented?",18
-NIST Cybersecurity Framework (CSF),ID.RA-4,19,Are potential business impacts and likelihoods identified?,19
-NIST Cybersecurity Framework (CSF),ID.RA-5,20,"Are threats, vulnerabilities, likelihoods, and impacts used to determine risk?",20
-NIST Cybersecurity Framework (CSF),ID.RA-6,21,Are risk responses identified and prioritized?,21
-NIST Cybersecurity Framework (CSF),ID.RM-1,22,"Are risk management processes established, managed, and agreed to by organizational stakeholders?",22
-NIST Cybersecurity Framework (CSF),ID.RM-2,23,Is organizational risk tolerance determined and clearly expressed?,23
-NIST Cybersecurity Framework (CSF),ID.RM-3,24,Is the organization’s determination of risk tolerance informed by its role in critical infrastructure and sector specific risk analysis?,24
-NIST Cybersecurity Framework (CSF),ID.SC-1,25,"Are cyber supply chain risk management processes identified, established, assessed, managed, and agreed to by organizational stakeholders?",25
-NIST Cybersecurity Framework (CSF),ID.SC-2,26,"Are suppliers and third party partners of information systems, components, and services identified, prioritized, and assessed using a cyber supply chain risk assessment process?",26
-NIST Cybersecurity Framework (CSF),ID.SC-3,27,Are contracts with suppliers and third-party partners used to implement appropriate measures designed to meet the objectives of an organization’s cybersecurity program and Cyber Supply Chain Risk Management Plan?,27
-NIST Cybersecurity Framework (CSF),ID.SC-4,28,"Are suppliers and third-party partners routinely assessed using audits, test results, or other forms of evaluations to confirm they are meeting their contractual obligations?",28
-NIST Cybersecurity Framework (CSF),ID.SC-5,29,Are response and recovery planning and testing conducted with suppliers and third-party providers?,29
-NIST Cybersecurity Framework (CSF),PR.AC-1,30,"Are identities and credentials issued, managed, verified, revoked, and audited for authorized devices, users and processes?",30
-NIST Cybersecurity Framework (CSF),PR.AC-2,31,Is physical access to assets being managed and protected?,31
-NIST Cybersecurity Framework (CSF),PR.AC-3,32,Is remote access managed?,32
-NIST Cybersecurity Framework (CSF),PR.AC-4,33,"Are access permissions and authorizations managed, incorporating the principles of least privilege and separation of duties?",33
-NIST Cybersecurity Framework (CSF),PR.AC-5,34,"Is network integrity being protected? (e.g., network segregation, network segmentation)",34
-NIST Cybersecurity Framework (CSF),PR.AC-6,35,Are identities proofed and bound to credentials and asserted in interactions?,35
-NIST Cybersecurity Framework (CSF),PR.AC-7,36,"Are users, devices, and other assets authenticated (e.g., single-factor, multi-factor) commensurate with the risk of the transaction? (e.g., individuals’ security and privacy risks and other organizational risks)",36
-NIST Cybersecurity Framework (CSF),PR.AT-1,37,Are all users informed and trained?,37
-NIST Cybersecurity Framework (CSF),PR.AT-2,38,Do privileged users understand their roles and responsibilities?,38
-NIST Cybersecurity Framework (CSF),PR.AT-3,39,"Do third-party stakeholders (e.g., suppliers, customers, partners) understand their roles and responsibilities?",39
-NIST Cybersecurity Framework (CSF),PR.AT-4,40,Do senior executives understand their roles and responsibilities?,40
-NIST Cybersecurity Framework (CSF),PR.AT-5,41,Do physical and cybersecurity personnel understand their roles and responsibilities?,41
-NIST Cybersecurity Framework (CSF),PR.DS-1,42,Is data-at-rest protected?,42
-NIST Cybersecurity Framework (CSF),PR.DS-2,43,Is data-in-transit protected?,43
-NIST Cybersecurity Framework (CSF),PR.DS-3,44,"Are assets formally managed throughout removal, transfers, and disposition?",44
-NIST Cybersecurity Framework (CSF),PR.DS-4,45,Is adequate capacity to ensure availability maintained?,45
-NIST Cybersecurity Framework (CSF),PR.DS-5,46,Are protections against data leaks implemented?,46
-NIST Cybersecurity Framework (CSF),PR.DS-6,47,"Are integrity checking mechanisms used to verify software, firmware, and information integrity?",47
-NIST Cybersecurity Framework (CSF),PR.DS-7,48,Are the development and testing environment(s) separate from the production environment?,48
-NIST Cybersecurity Framework (CSF),PR.DS-8,49,Are integrity checking mechanisms used to verify hardware integrity?,49
-NIST Cybersecurity Framework (CSF),PR.IP-1,50,Is a baseline configuration of information technology/industrial control systems in place and maintained incorporating security principles? (e.g. concept of least functionality),50
-NIST Cybersecurity Framework (CSF),PR.IP-2,51,Has a System Development Life Cycle to manage systems been implemented?,51
-NIST Cybersecurity Framework (CSF),PR.IP-3,52,Are configuration change control processes in place?,52
-NIST Cybersecurity Framework (CSF),PR.IP-4,53,"Are backups of information conducted, maintained, and tested?",53
-NIST Cybersecurity Framework (CSF),PR.IP-5,54,Are policy and regulations regarding the physical operating environment for organizational assets met?,54
-NIST Cybersecurity Framework (CSF),PR.IP-6,55,Is data destroyed according to policy?,55
-NIST Cybersecurity Framework (CSF),PR.IP-7,56,Are protection processes improved?,56
-NIST Cybersecurity Framework (CSF),PR.IP-8,57,Is effectiveness of protection technologies shared?,57
-NIST Cybersecurity Framework (CSF),PR.IP-9,58,Are response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) in place and managed?,58
-NIST Cybersecurity Framework (CSF),PR.IP-10,59,Are response and recovery plans tested?,59
-NIST Cybersecurity Framework (CSF),PR.IP-11,60,"Is cybersecurity included in human resources practices? (e.g., deprovisioning, personnel screening)",60
-NIST Cybersecurity Framework (CSF),PR.IP-12,61,Is a vulnerability management plan developed and implemented?,61
-NIST Cybersecurity Framework (CSF),PR.MA-1,62,"Are maintenance and repair of organizational assets performed and logged, with approved and controlled tools?",62
-NIST Cybersecurity Framework (CSF),PR.MA-2,63,"Is remote maintenance of organizational assets approved, logged, and performed in a manner that prevents unauthorized access?",63
-NIST Cybersecurity Framework (CSF),PR.PT-1,64,"Are audit/log records determined, documented, implemented, and reviewed in accordance with policy?",64
-NIST Cybersecurity Framework (CSF),PR.PT-2,65,Is removable media protected and its use restricted according to policy?,65
-NIST Cybersecurity Framework (CSF),PR.PT-3,66,Is the principle of least functionality incorporated by configuring systems to provide only essential capabilities?,66
-NIST Cybersecurity Framework (CSF),PR.PT-4,67,Are communications and control networks protected?,67
-NIST Cybersecurity Framework (CSF),PR.PT-5,68,"Are mechanisms (e.g., failsafe, load balancing, hot swap) implemented to achieve resilience requirements in normal and adverse situations?",68
-NIST Cybersecurity Framework (CSF),DE.AE-1,69,Has a baseline of network operations and expected data flows for users and systems been established and managed?,69
-NIST Cybersecurity Framework (CSF),DE.AE-2,70,Are detected events analyzed to understand attack targets and methods?,70
-NIST Cybersecurity Framework (CSF),DE.AE-3,71,Is event data collected and correlated from multiple sources and sensors?,71
-NIST Cybersecurity Framework (CSF),DE.AE-4,72,Is the impact of events determined?,72
-NIST Cybersecurity Framework (CSF),DE.AE-5,73,Are incident alert thresholds established?,73
-NIST Cybersecurity Framework (CSF),DE.CM-1,74,Is the network monitored to detect potential cybersecurity events?,74
-NIST Cybersecurity Framework (CSF),DE.CM-2,75,The physical environment is monitored to detect potential cybersecurity events?,75
-NIST Cybersecurity Framework (CSF),DE.CM-3,76,Is personnel activity monitored to detect potential cybersecurity events?,76
-NIST Cybersecurity Framework (CSF),DE.CM-4,77,Is malicious code is detected?,77
-NIST Cybersecurity Framework (CSF),DE.CM-5,78,Is unauthorized mobile code is detected?,78
-NIST Cybersecurity Framework (CSF),DE.CM-6,79,Is external service provider activity monitored to detect potential cybersecurity events?,79
-NIST Cybersecurity Framework (CSF),DE.CM-7,80,"Is monitoring for unauthorized personnel, connections, devices, and software performed?",80
-NIST Cybersecurity Framework (CSF),DE.CM-8,81,Are vulnerability scans performed?,81
-NIST Cybersecurity Framework (CSF),DE.DP-1,82,Are roles and responsibilities for detection well defined to ensure accountability?,82
-NIST Cybersecurity Framework (CSF),DE.DP-2,83,Do detection activities comply with all applicable requirements?,83
-NIST Cybersecurity Framework (CSF),DE.DP-3,84,Are detection processes tested?,84
-NIST Cybersecurity Framework (CSF),DE.DP-4,85,Is event detection information communicated?,85
-NIST Cybersecurity Framework (CSF),DE.DP-5,86,Are detection processes continuously improved?,86
-NIST Cybersecurity Framework (CSF),RS.RP-1,87,Is the response plan executed during or after an incident?,87
-NIST Cybersecurity Framework (CSF),RS.CO-1,88,Do personnel know their roles and order of operations when a response is needed?,88
-NIST Cybersecurity Framework (CSF),RS.CO-2,89,Are incidents reported consistent with established criteria?,89
-NIST Cybersecurity Framework (CSF),RS.CO-3,90,Is information shared consistent with response plans?,90
-NIST Cybersecurity Framework (CSF),RS.CO-4,91,Does coordination with stakeholders occur consistently with response plans?,91
-NIST Cybersecurity Framework (CSF),RS.CO-5,92,Does voluntary information sharing occur with external stakeholders to achieve broader cybersecurity situational awareness?,92
-NIST Cybersecurity Framework (CSF),RS.AN-1,93,Are notifications from detection systems investigated?,93
-NIST Cybersecurity Framework (CSF),RS.AN-2,94,Is the impact of the incident understood?,94
-NIST Cybersecurity Framework (CSF),RS.AN-3,95,Are forensics performed?,95
-NIST Cybersecurity Framework (CSF),RS.AN-4,96,Are incidents categorized consistent with response plans?,96
-NIST Cybersecurity Framework (CSF),RS.AN-5,97,"Are processes established to receive, analyze and respond to vulnerabilities disclosed to the organization from internal and external sources? (e.g. internal testing, security bulletins, or security researchers)",97
-NIST Cybersecurity Framework (CSF),RS.MI-1,98,Are incidents contained?,98
-NIST Cybersecurity Framework (CSF),RS.MI-2,99,Are incidents mitigated?,99
-NIST Cybersecurity Framework (CSF),RS.MI-3,100,Are newly identified vulnerabilities mitigated or documented as accepted risks?,100
-NIST Cybersecurity Framework (CSF),RS.IM-1,101,Do response plans incorporate lessons learned?,101
-NIST Cybersecurity Framework (CSF),RS.IM-2,102,Are response strategies updated?,102
-NIST Cybersecurity Framework (CSF),RC.RP-1,103,Is the recovery plan executed during or after a cybersecurity incident?,103
-NIST Cybersecurity Framework (CSF),RC.IM-1,104,Do recovery plans incorporate lessons learned?,104
-NIST Cybersecurity Framework (CSF),RC.IM-2,105,Are recovery strategies updated?,105
-NIST Cybersecurity Framework (CSF),RC.CO-1,106,Are public relations managed?,106
-NIST Cybersecurity Framework (CSF),RC.CO-2,107,Is reputation repaired after an incident?,107
-NIST Cybersecurity Framework (CSF),RC.CO-3,108,Are recovery activities communicated to internal and external stakeholders as well as executive and management teams?,108
+Control Framework,Control Number,Question
+NIST Cybersecurity Framework (CSF),ID.AM-1,Are physical devices and systems within the organization are inventoried?
+NIST Cybersecurity Framework (CSF),ID.AM-2,Are software platforms and applications within the organization inventoried?
+NIST Cybersecurity Framework (CSF),ID.AM-3,Are organizational communication and data flows mapped?
+NIST Cybersecurity Framework (CSF),ID.AM-4,Are external information systems catalogued?
+NIST Cybersecurity Framework (CSF),ID.AM-5,"Are resources (e.g., hardware, devices, data, time, personnel, and software) prioritized based on their classification, criticality, and business value?"
+NIST Cybersecurity Framework (CSF),ID.AM-6,"Are cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) established?"
+NIST Cybersecurity Framework (CSF),ID.BE-1,Are the organization’s role in the supply chain identified and communicated?
+NIST Cybersecurity Framework (CSF),ID.BE-2,Are the organization’s place in critical infrastructure and its industry sector identified and communicated?
+NIST Cybersecurity Framework (CSF),ID.BE-3,"Are priorities for organizational mission, objectives, and activities are established and communicated"
+NIST Cybersecurity Framework (CSF),ID.BE-4,Are dependencies and critical functions for delivery of critical services established?
+NIST Cybersecurity Framework (CSF),ID.BE-5,"Are resilience requirements to support delivery of critical services established for all operating states? (e.g. under duress/attack, during recovery, normal operations)"
+NIST Cybersecurity Framework (CSF),ID.GV-1,Are organizational cybersecurity policies established and communicated?
+NIST Cybersecurity Framework (CSF),ID.GV-2,Are cybersecurity roles and responsibilities coordinated and aligned with internal roles and external partners?
+NIST Cybersecurity Framework (CSF),ID.GV-3,"Are legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, understood and managed?"
+NIST Cybersecurity Framework (CSF),ID.GV-4,Are governance and risk management processes in place to address cybersecurity risks?
+NIST Cybersecurity Framework (CSF),ID.RA-1,Are asset vulnerabilities identified and documented?
+NIST Cybersecurity Framework (CSF),ID.RA-2,Is cyber threat intelligence received from information sharing forums and sources?
+NIST Cybersecurity Framework (CSF),ID.RA-3,"Are threats, both internal and external, identified and documented?"
+NIST Cybersecurity Framework (CSF),ID.RA-4,Are potential business impacts and likelihoods identified?
+NIST Cybersecurity Framework (CSF),ID.RA-5,"Are threats, vulnerabilities, likelihoods, and impacts used to determine risk?"
+NIST Cybersecurity Framework (CSF),ID.RA-6,Are risk responses identified and prioritized?
+NIST Cybersecurity Framework (CSF),ID.RM-1,"Are risk management processes established, managed, and agreed to by organizational stakeholders?"
+NIST Cybersecurity Framework (CSF),ID.RM-2,Is organizational risk tolerance determined and clearly expressed?
+NIST Cybersecurity Framework (CSF),ID.RM-3,Is the organization’s determination of risk tolerance informed by its role in critical infrastructure and sector specific risk analysis?
+NIST Cybersecurity Framework (CSF),ID.SC-1,"Are cyber supply chain risk management processes identified, established, assessed, managed, and agreed to by organizational stakeholders?"
+NIST Cybersecurity Framework (CSF),ID.SC-2,"Are suppliers and third party partners of information systems, components, and services identified, prioritized, and assessed using a cyber supply chain risk assessment process?"
+NIST Cybersecurity Framework (CSF),ID.SC-3,Are contracts with suppliers and third-party partners used to implement appropriate measures designed to meet the objectives of an organization’s cybersecurity program and Cyber Supply Chain Risk Management Plan?
+NIST Cybersecurity Framework (CSF),ID.SC-4,"Are suppliers and third-party partners routinely assessed using audits, test results, or other forms of evaluations to confirm they are meeting their contractual obligations?"
+NIST Cybersecurity Framework (CSF),ID.SC-5,Are response and recovery planning and testing conducted with suppliers and third-party providers?
+NIST Cybersecurity Framework (CSF),PR.AC-1,"Are identities and credentials issued, managed, verified, revoked, and audited for authorized devices, users and processes?"
+NIST Cybersecurity Framework (CSF),PR.AC-2,Is physical access to assets being managed and protected?
+NIST Cybersecurity Framework (CSF),PR.AC-3,Is remote access managed?
+NIST Cybersecurity Framework (CSF),PR.AC-4,"Are access permissions and authorizations managed, incorporating the principles of least privilege and separation of duties?"
+NIST Cybersecurity Framework (CSF),PR.AC-5,"Is network integrity being protected? (e.g., network segregation, network segmentation)"
+NIST Cybersecurity Framework (CSF),PR.AC-6,Are identities proofed and bound to credentials and asserted in interactions?
+NIST Cybersecurity Framework (CSF),PR.AC-7,"Are users, devices, and other assets authenticated (e.g., single-factor, multi-factor) commensurate with the risk of the transaction? (e.g., individuals’ security and privacy risks and other organizational risks)"
+NIST Cybersecurity Framework (CSF),PR.AT-1,Are all users informed and trained?
+NIST Cybersecurity Framework (CSF),PR.AT-2,Do privileged users understand their roles and responsibilities?
+NIST Cybersecurity Framework (CSF),PR.AT-3,"Do third-party stakeholders (e.g., suppliers, customers, partners) understand their roles and responsibilities?"
+NIST Cybersecurity Framework (CSF),PR.AT-4,Do senior executives understand their roles and responsibilities?
+NIST Cybersecurity Framework (CSF),PR.AT-5,Do physical and cybersecurity personnel understand their roles and responsibilities?
+NIST Cybersecurity Framework (CSF),PR.DS-1,Is data-at-rest protected?
+NIST Cybersecurity Framework (CSF),PR.DS-2,Is data-in-transit protected?
+NIST Cybersecurity Framework (CSF),PR.DS-3,"Are assets formally managed throughout removal, transfers, and disposition?"
+NIST Cybersecurity Framework (CSF),PR.DS-4,Is adequate capacity to ensure availability maintained?
+NIST Cybersecurity Framework (CSF),PR.DS-5,Are protections against data leaks implemented?
+NIST Cybersecurity Framework (CSF),PR.DS-6,"Are integrity checking mechanisms used to verify software, firmware, and information integrity?"
+NIST Cybersecurity Framework (CSF),PR.DS-7,Are the development and testing environment(s) separate from the production environment?
+NIST Cybersecurity Framework (CSF),PR.DS-8,Are integrity checking mechanisms used to verify hardware integrity?
+NIST Cybersecurity Framework (CSF),PR.IP-1,Is a baseline configuration of information technology/industrial control systems in place and maintained incorporating security principles? (e.g. concept of least functionality)
+NIST Cybersecurity Framework (CSF),PR.IP-2,Has a System Development Life Cycle to manage systems been implemented?
+NIST Cybersecurity Framework (CSF),PR.IP-3,Are configuration change control processes in place?
+NIST Cybersecurity Framework (CSF),PR.IP-4,"Are backups of information conducted, maintained, and tested?"
+NIST Cybersecurity Framework (CSF),PR.IP-5,Are policy and regulations regarding the physical operating environment for organizational assets met?
+NIST Cybersecurity Framework (CSF),PR.IP-6,Is data destroyed according to policy?
+NIST Cybersecurity Framework (CSF),PR.IP-7,Are protection processes improved?
+NIST Cybersecurity Framework (CSF),PR.IP-8,Is effectiveness of protection technologies shared?
+NIST Cybersecurity Framework (CSF),PR.IP-9,Are response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) in place and managed?
+NIST Cybersecurity Framework (CSF),PR.IP-10,Are response and recovery plans tested?
+NIST Cybersecurity Framework (CSF),PR.IP-11,"Is cybersecurity included in human resources practices? (e.g., deprovisioning, personnel screening)"
+NIST Cybersecurity Framework (CSF),PR.IP-12,Is a vulnerability management plan developed and implemented?
+NIST Cybersecurity Framework (CSF),PR.MA-1,"Are maintenance and repair of organizational assets performed and logged, with approved and controlled tools?"
+NIST Cybersecurity Framework (CSF),PR.MA-2,"Is remote maintenance of organizational assets approved, logged, and performed in a manner that prevents unauthorized access?"
+NIST Cybersecurity Framework (CSF),PR.PT-1,"Are audit/log records determined, documented, implemented, and reviewed in accordance with policy?"
+NIST Cybersecurity Framework (CSF),PR.PT-2,Is removable media protected and its use restricted according to policy?
+NIST Cybersecurity Framework (CSF),PR.PT-3,Is the principle of least functionality incorporated by configuring systems to provide only essential capabilities?
+NIST Cybersecurity Framework (CSF),PR.PT-4,Are communications and control networks protected?
+NIST Cybersecurity Framework (CSF),PR.PT-5,"Are mechanisms (e.g., failsafe, load balancing, hot swap) implemented to achieve resilience requirements in normal and adverse situations?"
+NIST Cybersecurity Framework (CSF),DE.AE-1,Has a baseline of network operations and expected data flows for users and systems been established and managed?
+NIST Cybersecurity Framework (CSF),DE.AE-2,Are detected events analyzed to understand attack targets and methods?
+NIST Cybersecurity Framework (CSF),DE.AE-3,Is event data collected and correlated from multiple sources and sensors?
+NIST Cybersecurity Framework (CSF),DE.AE-4,Is the impact of events determined?
+NIST Cybersecurity Framework (CSF),DE.AE-5,Are incident alert thresholds established?
+NIST Cybersecurity Framework (CSF),DE.CM-1,Is the network monitored to detect potential cybersecurity events?
+NIST Cybersecurity Framework (CSF),DE.CM-2,The physical environment is monitored to detect potential cybersecurity events?
+NIST Cybersecurity Framework (CSF),DE.CM-3,Is personnel activity monitored to detect potential cybersecurity events?
+NIST Cybersecurity Framework (CSF),DE.CM-4,Is malicious code is detected?
+NIST Cybersecurity Framework (CSF),DE.CM-5,Is unauthorized mobile code is detected?
+NIST Cybersecurity Framework (CSF),DE.CM-6,Is external service provider activity monitored to detect potential cybersecurity events?
+NIST Cybersecurity Framework (CSF),DE.CM-7,"Is monitoring for unauthorized personnel, connections, devices, and software performed?"
+NIST Cybersecurity Framework (CSF),DE.CM-8,Are vulnerability scans performed?
+NIST Cybersecurity Framework (CSF),DE.DP-1,Are roles and responsibilities for detection well defined to ensure accountability?
+NIST Cybersecurity Framework (CSF),DE.DP-2,Do detection activities comply with all applicable requirements?
+NIST Cybersecurity Framework (CSF),DE.DP-3,Are detection processes tested?
+NIST Cybersecurity Framework (CSF),DE.DP-4,Is event detection information communicated?
+NIST Cybersecurity Framework (CSF),DE.DP-5,Are detection processes continuously improved?
+NIST Cybersecurity Framework (CSF),RS.RP-1,Is the response plan executed during or after an incident?
+NIST Cybersecurity Framework (CSF),RS.CO-1,Do personnel know their roles and order of operations when a response is needed?
+NIST Cybersecurity Framework (CSF),RS.CO-2,Are incidents reported consistent with established criteria?
+NIST Cybersecurity Framework (CSF),RS.CO-3,Is information shared consistent with response plans?
+NIST Cybersecurity Framework (CSF),RS.CO-4,Does coordination with stakeholders occur consistently with response plans?
+NIST Cybersecurity Framework (CSF),RS.CO-5,Does voluntary information sharing occur with external stakeholders to achieve broader cybersecurity situational awareness?
+NIST Cybersecurity Framework (CSF),RS.AN-1,Are notifications from detection systems investigated?
+NIST Cybersecurity Framework (CSF),RS.AN-2,Is the impact of the incident understood?
+NIST Cybersecurity Framework (CSF),RS.AN-3,Are forensics performed?
+NIST Cybersecurity Framework (CSF),RS.AN-4,Are incidents categorized consistent with response plans?
+NIST Cybersecurity Framework (CSF),RS.AN-5,"Are processes established to receive, analyze and respond to vulnerabilities disclosed to the organization from internal and external sources? (e.g. internal testing, security bulletins, or security researchers)"
+NIST Cybersecurity Framework (CSF),RS.MI-1,Are incidents contained?
+NIST Cybersecurity Framework (CSF),RS.MI-2,Are incidents mitigated?
+NIST Cybersecurity Framework (CSF),RS.MI-3,Are newly identified vulnerabilities mitigated or documented as accepted risks?
+NIST Cybersecurity Framework (CSF),RS.IM-1,Do response plans incorporate lessons learned?
+NIST Cybersecurity Framework (CSF),RS.IM-2,Are response strategies updated?
+NIST Cybersecurity Framework (CSF),RC.RP-1,Is the recovery plan executed during or after a cybersecurity incident?
+NIST Cybersecurity Framework (CSF),RC.IM-1,Do recovery plans incorporate lessons learned?
+NIST Cybersecurity Framework (CSF),RC.IM-2,Are recovery strategies updated?
+NIST Cybersecurity Framework (CSF),RC.CO-1,Are public relations managed?
+NIST Cybersecurity Framework (CSF),RC.CO-2,Is reputation repaired after an incident?
+NIST Cybersecurity Framework (CSF),RC.CO-3,Are recovery activities communicated to internal and external stakeholders as well as executive and management teams?
