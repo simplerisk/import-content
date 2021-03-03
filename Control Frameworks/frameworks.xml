@@ -458,6 +458,10 @@
         <mapping>controls_short_name</mapping>
       </column>
       <column>
+        <name>Title</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
         <name>Impact</name>
         <mapping></mapping>
       </column>
