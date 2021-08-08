@@ -1979,7 +1979,7 @@
       </column>
       <column>
         <name>Question Type</name>
-        <mapping>question_type<mapping>
+        <mapping>question_type</mapping>
       </column>
       <column>
         <name>Has File</name>
