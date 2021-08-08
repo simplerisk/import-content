@@ -1324,6 +1324,10 @@
         <mapping>question</mapping>
       </column>
       <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
+      </column>
+      <column>
         <name>Has File</name>
         <mapping>has_file</mapping>
       </column>
@@ -1540,6 +1544,10 @@
       <column>
         <name>Question</name>
         <mapping>question</mapping>
+      </column>
+      <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
       </column>
       <column>
         <name>Has File</name>
@@ -2200,6 +2208,10 @@
         <mapping>question</mapping>
       </column>
       <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
+      </column>
+      <column>
         <name>Has File</name>
         <mapping>has_file</mapping>
       </column>
@@ -2416,6 +2428,10 @@
       <column>
         <name>Question</name>
         <mapping>question</mapping>
+      </column>
+      <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
       </column>
       <column>
         <name>Has File</name>
@@ -2636,6 +2652,10 @@
         <mapping>question</mapping>
       </column>
       <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
+      </column>
+      <column>
         <name>Has File</name>
         <mapping>has_file</mapping>
       </column>
@@ -2852,6 +2872,10 @@
       <column>
         <name>Question</name>
         <mapping>question</mapping>
+      </column>
+      <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
       </column>
       <column>
         <name>Has File</name>
@@ -3290,6 +3314,10 @@
         <mapping>question</mapping>
       </column>
       <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
+      </column>
+      <column>
         <name>Has File</name>
         <mapping>has_file</mapping>
       </column>
@@ -3506,6 +3534,10 @@
       <column>
         <name>Question</name>
         <mapping>question</mapping>
+      </column>
+      <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
       </column>
       <column>
         <name>Has File</name>
@@ -3726,6 +3758,10 @@
         <mapping>question</mapping>
       </column>
       <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
+      </column>
+      <column>
         <name>Has File</name>
         <mapping>has_file</mapping>
       </column>
@@ -3942,6 +3978,10 @@
       <column>
         <name>Question</name>
         <mapping>question</mapping>
+      </column>
+      <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
       </column>
       <column>
         <name>Has File</name>
@@ -4816,6 +4856,10 @@
         <mapping>question</mapping>
       </column>
       <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
+      </column>
+      <column>
         <name>Has File</name>
         <mapping>has_file</mapping>
       </column>
@@ -5252,6 +5296,10 @@
         <mapping>question</mapping>
       </column>
       <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
+      </column>
+      <column>
         <name>Has File</name>
         <mapping>has_file</mapping>
       </column>
@@ -5470,6 +5518,10 @@
         <mapping>question</mapping>
       </column>
       <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
+      </column>
+      <column>
         <name>Has File</name>
         <mapping>has_file</mapping>
       </column>
@@ -5686,6 +5738,10 @@
       <column>
         <name>Question</name>
         <mapping>question</mapping>
+      </column>
+      <column>
+        <name>Question Type</name>
+        <mapping>question_type</mapping>
       </column>
       <column>
         <name>Has File</name>
