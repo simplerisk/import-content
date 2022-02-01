@@ -604,6 +604,15 @@ ISO 27002:2013 Mapping: A.14.2.8, A.18.2.2, A.18.2.3 (for CA-2 only)
 Relevant 20 Critical Control: 1, 2, 3, 4, 5, 7, 10, 11, 12, 13, 14, 15, 17, 20
 
 DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.12.4,Basic,Security Assessment,NIST 800-171 3.12.4,"NIST 800-171 3.12.4: Develop, document, and periodically update system security plans that describe system
+boundaries, system environments of operation, how security requirements are implemented,
+and the relationships with or connections to other systems.","System security plans relate security requirements to a set of security controls. System security plans also describe, at a high level, how the security controls meet those security requirements, but do not provide detailed, technical descriptions of the design or implementation of the controls.","NIST 800-53 Mapping: PL-2
+
+ISO 27002:2013 Mapping: A.6.1.2
+
+Relevant 20 Critial Control: N/A
+
+DFARS 7012 (2013) Covered: N/A"
 NIST 800-171,3.13.1,Basic,System and Communications Protection,NIST 800-171 3.13.1,"NIST 800-171 3.13.1: Monitor, control, and protect organizational communications (i.e., information transmitted or received by organizational information systems) at the external boundaries and key internal boundaries of the information systems.","Enumerate policies for managed interfaces such as gateways, routers, firewalls, VPNs; organizational DMZs; and restricting external web traffic to only designated servers.","NIST 800-53 Mapping: SC-7, SA-8
 
 ISO 27002:2013 Mapping: A.8.2.3, A.13.1.1, A.13.1.3, A.13.2.1, A.13.2.3, A.14.1.2, A.14.1.3
