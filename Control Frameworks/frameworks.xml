@@ -295,7 +295,7 @@
   </framework>
   <framework name="cmmc_2.0_L1">
     <name>Cybersecurity Maturity Model Certification (CMMC) Version 2.0 - Level 1</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0%20-%20Level%201.xlsx</file>
+    <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0%20-%20Level%201.csv</file>
     <columns>
       <column>
         <name>Framework Name</name>
@@ -333,7 +333,7 @@
   </framework>
   <framework name="cmmc_2.0_L2">
     <name>Cybersecurity Maturity Model Certification (CMMC) Version 2.0 - Level 2</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0%20-%20Level%202.xlsx</file>
+    <file>https://github.com/simplerisk/import-content/raw/master/Control%20Frameworks/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0%20-%20Level%202.csv</file>
     <columns>
       <column>
         <name>Framework Name</name>
