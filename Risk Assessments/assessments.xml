@@ -1,7 +1,7 @@
 <assessments>
   <assessment name="nist_csf">
     <name>NIST Cybersecurity Framework (CSF)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/NIST%20Cybersecurity%20Framework%20(CSF)/NIST_CSF.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/NIST%20Cybersecurity%20Framework%20(CSF)/NIST_CSF.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -219,7 +219,7 @@
   </assessment>
   <assessment name="nist_csf">
     <name>NIST SP 800-171 DoD Assessment</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/NIST%20SP%20800-171%20DoD%20Assessment/NIST_SP_800-171_DoD_Assessment.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/NIST%20SP%20800-171%20DoD%20Assessment/NIST_SP_800-171_DoD_Assessment.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -655,7 +655,7 @@
   </assessment>
   <assessment name="hecvat_onprem">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - On-Prem (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20OnPrem/HECVATOnPrem211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20OnPrem/HECVATOnPrem211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -877,7 +877,7 @@
   </assessment>
   <assessment name="hecvat_lite">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Lite (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Lite/HECVATLite211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Lite/HECVATLite211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -1099,7 +1099,7 @@
   </assessment>
   <assessment name="hecvat_qual">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Qualifiers (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_QUAL_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_QUAL_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -1317,7 +1317,7 @@
   </assessment>
   <assessment name="hecvat_docu">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Documentation (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_DOCU_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_DOCU_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -1535,7 +1535,7 @@
   </assessment>
   <assessment name="hecvat_comp">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Company Overview (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_COMP_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_COMP_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -1757,7 +1757,7 @@
   </assessment>
   <assessment name="hecvat_thrd">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Third Parties (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_THRD_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_THRD_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -1979,7 +1979,7 @@
   </assessment>
   <assessment name="hecvat_cons">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Consulting (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_CONS_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_CONS_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -2197,7 +2197,7 @@
   </assessment>
   <assessment name="hecvat_appl">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - App/Service Security (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_APPL_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_APPL_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -2419,7 +2419,7 @@
   </assessment>
   <assessment name="hecvat_aaai">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - AAA (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_AAAI_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_AAAI_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -2641,7 +2641,7 @@
   </assessment>
   <assessment name="hecvat_bcpl">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - BCP (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_BCPL_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_BCPL_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -2863,7 +2863,7 @@
   </assessment>
   <assessment name="hecvat_chng">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Change Management (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_CHNG_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_CHNG_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -3085,7 +3085,7 @@
   </assessment>
   <assessment name="hecvat_data">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Data (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_DATA_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_DATA_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -3307,7 +3307,7 @@
   </assessment>
   <assessment name="hecvat_dbas">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Database (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_DBAS_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_DBAS_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -3525,7 +3525,7 @@
   </assessment>
   <assessment name="hecvat_dctr">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Datacenter (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_DCTR_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_DCTR_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -3747,7 +3747,7 @@
   </assessment>
   <assessment name="hecvat_drpl">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - DRP (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_DRPL_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_DRPL_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -3969,7 +3969,7 @@
   </assessment>
   <assessment name="hecvat_fidp">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - FW/IDPS/Networks (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_FIDP_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_FIDP_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -4191,7 +4191,7 @@
   </assessment>
   <assessment name="hecvat_mapp">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Mobile Applications (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_MAPP_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_MAPP_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -4413,7 +4413,7 @@
   </assessment>
   <assessment name="hecvat_phys">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Physical Security (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_PHYS_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_PHYS_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -4631,7 +4631,7 @@
   </assessment>
   <assessment name="hecvat_pppr">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Pol/Pro/Proc (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_PPPR_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_PPPR_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -4849,7 +4849,7 @@
   </assessment>
   <assessment name="hecvat_prod">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Product Evaluation (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_PROD_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_PROD_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -5067,7 +5067,7 @@
   </assessment>
   <assessment name="hecvat_qlas">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Quality Assurance (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_QLAS_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_QLAS_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -5289,7 +5289,7 @@
   </assessment>
   <assessment name="hecvat_syst">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - System Mgmt/Config (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_SYST_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_SYST_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -5507,7 +5507,7 @@
   </assessment>
   <assessment name="hecvat_vuln">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - Vulnerability Scanning (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_VULN_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_VULN_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -5729,7 +5729,7 @@
   </assessment>
   <assessment name="hecvat_hipa">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - HIPAA (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_HIPA_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_HIPA_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>
@@ -5951,7 +5951,7 @@
   </assessment>
   <assessment name="hecvat_pcid">
     <name>Higher Education Community Vendor Assessment Tool (HECVAT) - PCI DSS (v2.11)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Risk%20Assessments/HECVAT%20Full/HECVAT_PCID_211.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Risk%20Assessments/HECVAT%20Full/HECVAT_PCID_211.csv</file>
     <columns>
       <column>
         <name>Questionnaire Template Name</name>

@@ -1,6 +1,6 @@
 <mappings>
   <mapping name="nist_csf">
     <name>NIST Cybersecurity Framework (CSF)</name>
-    <file>https://github.com/simplerisk/import-content/raw/master/Mappings/NIST%20Cybersecurity%20Framework%20(CSF)/NIST_CSF.csv</file>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Mappings/NIST%20Cybersecurity%20Framework%20(CSF)/NIST_CSF.csv</file>
   </mapping>
 </mappings>
