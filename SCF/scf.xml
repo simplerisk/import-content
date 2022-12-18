@@ -1,5 +1,5 @@
 <scf_releases>
-  <scf name="2022.3">
+  <scf_release name="2022.3">
     <version>2022.3</version>
     <file>https://raw.githubusercontent.com/simplerisk/import-content/master/SCF/xlsx/Secure%20Controls%20Framework%20(SCF)%20-%202022.3.xlsx</file>
     <not_frameworks>
@@ -17,7 +17,7 @@
       <not_framework name="SCRM Tier 3 Tactical" />
       <not_framework name="SP-CMM 0 Not Performed" />
       <not_framework name="SP-CMM 1 Performed Informally" />
-      <not_framework name="SP-CMM 2 Planned & Tracked" />
+      <not_framework name="SP-CMM 2 Planned &#038; Tracked" />
       <not_framework name="SP-CMM 3 Well Defined" />
       <not_framework name="SP-CMM 4 Quantitatively Controlled" />
       <not_framework name="SP-CMM 5 Continuously Improving" />
@@ -85,8 +85,8 @@
       <not_framework name="Threat MT-11" />
       <not_framework name="SCF Errata 2022.3" />
     </not_frameworks>
-  </scf>
-  <scf name="2022.2">
+  </scf_release>
+  <scf_release name="2022.2">
     <version>2022.2</version>
     <file>https://raw.githubusercontent.com/simplerisk/import-content/master/SCF/xlsx/Secure%20Controls%20Framework%20(SCF)%20-%202022.2.xlsx</file>
     <not_frameworks>
@@ -103,7 +103,7 @@
       <not_framework name="SCRM Tier 3 Tactical" />
       <not_framework name="SP-CMM 0 Not Performed" />
       <not_framework name="SP-CMM 1 Performed Informally" />
-      <not_framework name="SP-CMM 2 Planned & Tracked" />
+      <not_framework name="SP-CMM 2 Planned &#038; Tracked" />
       <not_framework name="SP-CMM 3 Well Defined" />
       <not_framework name="SP-CMM 4 Quantitatively Controlled" />
       <not_framework name="SP-CMM 5 Continuously Improving" />
@@ -171,8 +171,8 @@
       <not_framework name="Threat MT-11" />
       <not_framework name="SCF Errata 2022.2" />
     </not_frameworks>
-  </scf>
-  <scf name="2022.1">
+  </scf_release>
+  <scf_release name="2022.1">
     <version>2022.1</version>
     <file>https://raw.githubusercontent.com/simplerisk/import-content/master/SCF/xlsx/Secure%20Controls%20Framework%20(SCF)%20-%202022.1.xlsx</file>
     <not_frameworks>
@@ -189,7 +189,7 @@
       <not_framework name="SCRM Tier 3 Tactical" />
       <not_framework name="SP-CMM 0 Not Performed" />
       <not_framework name="SP-CMM 1 Performed Informally" />
-      <not_framework name="SP-CMM 2 Planned & Tracked" />
+      <not_framework name="SP-CMM 2 Planned &#038; Tracked" />
       <not_framework name="SP-CMM 3 Well Defined" />
       <not_framework name="SP-CMM 4 Quantitatively Controlled" />
       <not_framework name="SP-CMM 5 Continuously Improving" />
@@ -257,8 +257,8 @@
       <not_framework name="Threat MT-11" />
       <not_framework name="SCF Errata 2022.1" />
     </not_frameworks>
-  </scf>
-  <scf name="2021.3">
+  </scf_release>
+  <scf_release name="2021.3">
     <version>2021.3</version>
     <file>https://raw.githubusercontent.com/simplerisk/import-content/master/SCF/xlsx/Secure%20Controls%20Framework%20(SCF)%20-%202021.3.xlsx</file>
     <not_frameworks>
@@ -275,7 +275,7 @@
       <not_framework name="SCRM Tier 3 Tactical" />
       <not_framework name="SP-CMM 0 Not Performed" />
       <not_framework name="SP-CMM 1 Performed Informally" />
-      <not_framework name="SP-CMM 2 Planned & Tracked" />
+      <not_framework name="SP-CMM 2 Planned &#038; Tracked" />
       <not_framework name="SP-CMM 3 Well Defined" />
       <not_framework name="SP-CMM 4 Quantitatively Controlled" />
       <not_framework name="SP-CMM 5 Continuously Improving" />
@@ -344,8 +344,8 @@
       <not_framework name="SCF Errata 2021.2" />
       <not_framework name="SCF Errata 2021.3" />
     </not_frameworks>
-  </scf>
-  <scf name="2021.2">
+  </scf_release>
+  <scf_release name="2021.2">
     <version>2021.2</version>
     <file>https://raw.githubusercontent.com/simplerisk/import-content/master/SCF/xlsx/Secure%20Controls%20Framework%20(SCF)%20-%202021.2.xlsx</file>
     <not_frameworks>
@@ -362,7 +362,7 @@
       <not_framework name="SCRM Tier 3 Tactical" />
       <not_framework name="SP-CMM 0 Not Performed" />
       <not_framework name="SP-CMM 1 Performed Informally" />
-      <not_framework name="SP-CMM 2 Planned & Tracked" />
+      <not_framework name="SP-CMM 2 Planned &#038; Tracked" />
       <not_framework name="SP-CMM 3 Well Defined" />
       <not_framework name="SP-CMM 4 Quantitatively Controlled" />
       <not_framework name="SP-CMM 5 Continuously Improving" />
@@ -427,5 +427,5 @@
       <not_framework name="Threat MT-8" />
       <not_framework name="SCF Errata 2021.2" />
     </not_frameworks>
-  </scf>
+  </scf_release>
 </scf_releases>
