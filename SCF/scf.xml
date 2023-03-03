@@ -1,4 +1,94 @@
 <scf_releases>
+  <scf_release name="2023.1">
+    <version>2023.1</version>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/SCF/xlsx/Secure_Controls_Framework_2023_1.xlsx</file>
+    <not_frameworks>
+      <not_framework name="SCF Domain" />
+      <not_framework name="SCF Control" />
+      <not_framework name="SCF #" />
+      <not_framework name="Secure Controls Framework (SCF) Control Description" />
+      <not_framework name="Methods To Comply With SCF Controls" />
+      <not_framework name="Evidence Request List (ERL) #" />
+      <not_framework name="SCF Control Question" />
+      <not_framework name="Relative Control Weighting" />
+      <not_framework name="Function Grouping" />
+      <not_framework name="SCRM Tier 1 Strategic" />
+      <not_framework name="SCRM Tier 2 Operational" />
+      <not_framework name="SCRM Tier 3 Tactical" />
+      <not_framework name="SP-CMM 0 Not Performed" />
+      <not_framework name="SP-CMM 1 Performed Informally" />
+      <not_framework name="SP-CMM 2 Planned &#038; Tracked" />
+      <not_framework name="SP-CMM 3 Well Defined" />
+      <not_framework name="SP-CMM 4 Quantitatively Controlled" />
+      <not_framework name="SP-CMM 5 Continuously Improving" />
+      <not_framework name="Minimum Security Requirements MCC + DSR" />
+      <not_framework name="Identify Minimum Compliance Controls (MCC)" />
+      <not_framework name="Identify Discretionary Security Requirements (DSR)" />
+      <not_framework name="Risk Threat Summary" />
+      <not_framework name="Risk R-AC-1" />
+      <not_framework name="Risk R-AC-2" />
+      <not_framework name="Risk R-AC-3" />
+      <not_framework name="Risk R-AC-4" />
+      <not_framework name="Risk R-AM-1" />
+      <not_framework name="Risk R-AM-2" />
+      <not_framework name="Risk R-AM-3" />
+      <not_framework name="Risk R-BC-1" />
+      <not_framework name="Risk R-BC-2" />
+      <not_framework name="Risk R-BC-3" />
+      <not_framework name="Risk R-BC-4" />
+      <not_framework name="Risk R-BC-5" />
+      <not_framework name="Risk R-EX-1" />
+      <not_framework name="Risk R-EX-2" />
+      <not_framework name="Risk R-EX-3" />
+      <not_framework name="Risk R-EX-4" />
+      <not_framework name="Risk R-EX-5" />
+      <not_framework name="Risk R-EX-6" />
+      <not_framework name="Risk R-EX-7" />
+      <not_framework name="Risk R-GV-1" />
+      <not_framework name="Risk R-GV-2" />
+      <not_framework name="Risk R-GV-3" />
+      <not_framework name="Risk R-GV-4" />
+      <not_framework name="Risk R-GV-5" />
+      <not_framework name="Risk R-GV-6" />
+      <not_framework name="Risk R-GV-7" />
+      <not_framework name="Risk R-GV-8" />
+      <not_framework name="Risk R-IR-1" />
+      <not_framework name="Risk R-IR-2" />
+      <not_framework name="Risk R-IR-3" />
+      <not_framework name="Risk R-IR-4" />
+      <not_framework name="Risk R-SA-1" />
+      <not_framework name="Risk R-SA-2" />
+      <not_framework name="Control Threat Summary" />
+      <not_framework name="Threat NT-1" />
+      <not_framework name="Threat NT-2" />
+      <not_framework name="Threat NT-3" />
+      <not_framework name="Threat NT-4" />
+      <not_framework name="Threat NT-5" />
+      <not_framework name="Threat NT-6" />
+      <not_framework name="Threat NT-7" />
+      <not_framework name="Threat NT-8" />
+      <not_framework name="Threat NT-9" />
+      <not_framework name="Threat NT-10" />
+      <not_framework name="Threat NT-11" />
+      <not_framework name="Threat NT-12" />
+      <not_framework name="Threat NT-13" />
+      <not_framework name="Threat NT-14" />
+      <not_framework name="Threat MT-1" />
+      <not_framework name="Threat MT-2" />
+      <not_framework name="Threat MT-3" />
+      <not_framework name="Threat MT-4" />
+      <not_framework name="Threat MT-5" />
+      <not_framework name="Threat MT-6" />
+      <not_framework name="Threat MT-7" />
+      <not_framework name="Threat MT-8" />
+      <not_framework name="Threat MT-9" />
+      <not_framework name="Threat MT-10" />
+      <not_framework name="Threat MT-11" />
+      <not_framework name="Threat MT-12" />
+      <not_framework name="Threat MT-13" />
+      <not_framework name="SCF Errata 2023.1" />
+    </not_frameworks>
+  </scf_release>
   <scf_release name="2022.3">
     <version>2022.3</version>
     <file>https://raw.githubusercontent.com/simplerisk/import-content/master/SCF/xlsx/Secure%20Controls%20Framework%20(SCF)%20-%202022.3.xlsx</file>
