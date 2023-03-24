@@ -707,4 +707,42 @@
       </column>
     </columns>
   </framework>
+    <framework name="pci_dss_4_0">
+    <name>PCI Data Security Standard v4.0</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/PCI%20DSS%204.0/PCI%20DSS%20v4.0.csv</file>
+    <columns>
+      <column>
+        <name>Control Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+    </columns>
+  </framework>
 </frameworks>
